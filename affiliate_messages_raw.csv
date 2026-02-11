@@ -1,0 +1,601 @@
+message_id,timestamp,affiliate_id,subject,message_text,language,country
+MSG0001,2026-01-05T09:12:18+04:00,AFF-1042,Tracking link not working,"Hi team, my tracking link returns a 404 when I click it. Can you confirm the correct URL format and whether the campaign is active?",en,United Arab Emirates
+MSG0002,2026-01-05T10:03:44+04:00,AFF-1187,Payout schedule question,"Hello, could you share your payout schedule for January and the minimum payout threshold?",en,United Kingdom
+MSG0003,2026-01-05T11:27:09+04:00,AFF-1315,Coupon approval request,I want to promote your brand with a coupon code. Can you approve a unique code for my audience this week?,en,Germany
+MSG0004,2026-01-05T14:15:31+04:00,AFF-1420,Missing conversions,I’m seeing clicks but zero conversions since yesterday. Could there be an attribution or pixel issue?,en,United States
+MSG0005,2026-01-06T08:41:02+04:00,AFF-1559,Creative assets needed,"Do you have updated banners (300x250, 728x90, 1080x1080) and brand guidelines I can use?",en,France
+MSG0006,2026-01-06T09:55:18+04:00,AFF-1693,Commission rate increase,My traffic is growing and I’d like to discuss a higher commission tier based on performance. Who can I speak to?,en,Spain
+MSG0007,2026-01-06T12:19:46+04:00,AFF-1738,Deep link support,Can you enable deep linking to specific product pages? I need to link directly to a category landing page.,en,Italy
+MSG0008,2026-01-06T15:02:11+04:00,AFF-1811,Attribution window,What is your attribution window for last-click and view-through?,en,Netherlands
+MSG0009,2026-01-07T09:08:37+04:00,AFF-1926,Program policies,Please confirm whether PPC bidding on brand keywords is allowed and if there are any restricted terms.,en,Canada
+MSG0010,2026-01-07T10:44:59+04:00,AFF-2064,Invoice needed,"Could you provide an invoice template or confirm the details you need for payments (VAT, address, etc.)?",en,Ireland
+MSG0011,2026-01-07T13:06:12+04:00,AFF-2179,Rejected transaction,One of my transactions was rejected as 'invalid'. Can you share the reason code and what to do next?,en,Australia
+MSG0012,2026-01-07T16:33:28+04:00,AFF-2290,API access,Do you have an API or product feed (CSV/XML) for price and availability updates?,en,Sweden
+MSG0013,2026-01-08T08:22:14+04:00,AFF-2357,Promo timing,I’m planning a newsletter on Friday. Can you confirm any upcoming promos or free shipping offers?,en,United Kingdom
+MSG0014,2026-01-08T09:47:03+04:00,AFF-2413,Link shortener issue,"When I shorten your tracking links, conversions stop tracking. Is link shortener usage supported?",en,United States
+MSG0015,2026-01-08T11:31:50+04:00,AFF-2566,Product feed missing images,The product feed doesn’t include image URLs for many SKUs. Can you provide an updated feed?,en,Germany
+MSG0016,2026-01-08T14:09:22+04:00,AFF-2681,Mobile app tracking,Do you support app-to-web or app installs tracking? My audience is mostly mobile.,en,United Arab Emirates
+MSG0017,2026-01-09T09:19:05+04:00,AFF-2794,Payment method change,I need to update my payout method from PayPal to bank transfer. What’s the process?,en,France
+MSG0018,2026-01-09T10:58:41+04:00,AFF-2833,Compliance question,Are we allowed to use your logo in a YouTube thumbnail and video intro?,en,United States
+MSG0019,2026-01-09T12:42:57+04:00,AFF-2970,Higher EPC discussion,My EPC is low compared to other advertisers. Can we review the landing page or offer to improve conversion?,en,Netherlands
+MSG0020,2026-01-09T15:27:33+04:00,AFF-3012,UTM parameters,Can I append UTM parameters to your tracking URL for analytics without breaking tracking?,en,Spain
+MSG0021,2026-01-10T09:05:21+04:00,AFF-3148,New affiliate onboarding,"Hi, I just joined. Can you share best-performing categories and any starter creatives?",en,Italy
+MSG0022,2026-01-10T10:36:10+04:00,AFF-3265,Out of date banners,Some banners show last season’s offer. Please send current creatives or confirm the correct promo text.,en,United Kingdom
+MSG0023,2026-01-10T12:01:39+04:00,AFF-3389,S2S postback,Do you support server-to-server postback tracking? I can provide my postback URL.,en,United States
+MSG0024,2026-01-10T14:48:55+04:00,AFF-3471,Geo restrictions,Is the offer valid for my country? I’m based in Portugal and want to ensure users can checkout.,en,Portugal
+MSG0025,2026-01-11T08:57:13+04:00,AFF-3590,Return period impact,How long is your return/cancellation window before commissions are finalized?,en,Germany
+MSG0026,2026-01-11T10:22:44+04:00,AFF-3644,Brand partnership proposal,I’d like to propose a long-term partnership with monthly placements. Do you have a media kit or rate card?,en,United Kingdom
+MSG0027,2026-01-11T11:40:09+04:00,AFF-3782,Missing payment,My December payment hasn’t arrived. Can you confirm status and expected processing time?,en,Ireland
+MSG0028,2026-01-11T14:03:36+04:00,AFF-3897,Duplicate orders flagged,Several valid orders were flagged as duplicates. Can you investigate and reinstate if correct?,en,United States
+MSG0029,2026-01-12T09:16:52+04:00,AFF-3921,New landing page request,Can you provide a dedicated landing page for my campaign with my audience’s messaging?,en,France
+MSG0030,2026-01-12T10:49:27+04:00,AFF-4015,Commission structure,Can you break down commission by product category and whether there are exclusions?,en,Sweden
+MSG0031,2026-01-12T12:25:18+04:00,AFF-4170,Product sample inquiry,Do you offer product samples for creators? I can provide a content plan and estimated reach.,en,United States
+MSG0032,2026-01-12T15:11:03+04:00,AFF-4256,Tracking delay,Is there a reporting delay? Today’s conversions are not showing in the dashboard yet.,en,United Arab Emirates
+MSG0033,2026-01-13T08:34:40+04:00,AFF-4309,SubID reporting,Can you enable SubID reporting in the dashboard so I can see performance by placement?,en,Netherlands
+MSG0034,2026-01-13T10:12:07+04:00,AFF-4462,Link generator access,I can’t access the link generator tool—permission issue. Can you reset my access?,en,United Kingdom
+MSG0035,2026-01-13T11:57:55+04:00,AFF-4588,Promo code not applying,The promo code you shared isn’t applying at checkout for my users. Can you confirm it’s active?,en,Canada
+MSG0036,2026-01-13T14:20:33+04:00,AFF-4617,Localized creatives,Do you have creatives in Arabic? I’m targeting UAE and KSA audiences.,en,Saudi Arabia
+MSG0037,2026-01-14T09:03:19+04:00,AFF-4792,Tax documentation,"Which tax forms do you require for EU affiliates, and where can I upload them?",en,Germany
+MSG0038,2026-01-14T10:38:42+04:00,AFF-4875,Content approval,Can you review my draft blog post to ensure it complies with your brand and claims policy?,en,United Kingdom
+MSG0039,2026-01-14T12:09:58+04:00,AFF-4999,Higher volume forecast,I expect a spike next week due to a TikTok video. Can you confirm inventory availability and shipping times?,en,United States
+MSG0040,2026-01-14T16:17:06+04:00,AFF-5033,Broken product page,The product page I’m linking to now shows an error. Please share the updated URL.,en,France
+MSG0041,2026-01-15T08:11:27+04:00,AFF-5124,Affiliate manager contact,Who is the affiliate manager for my region? I’d like to align on monthly targets.,en,Spain
+MSG0042,2026-01-15T09:46:51+04:00,AFF-5280,Cookie consent impact,Could cookie consent banners be impacting tracking? Any recommended best practices?,en,Netherlands
+MSG0043,2026-01-15T11:24:32+04:00,AFF-5318,New SKU launch,Do you have an upcoming product launch calendar so I can plan content in advance?,en,Italy
+MSG0044,2026-01-15T14:55:20+04:00,AFF-5496,Commission discrepancy,I see different commission amounts for similar orders. Can you explain how the commission is calculated?,en,United Kingdom
+MSG0045,2026-01-16T09:09:14+04:00,AFF-5537,Cross-device tracking,Do you support cross-device attribution? A lot of my users browse on mobile and purchase on desktop.,en,United States
+MSG0046,2026-01-16T10:41:03+04:00,AFF-5611,Payment currency,"Can payouts be made in EUR instead of USD? If not, what FX rate is used?",en,Austria
+MSG0047,2026-01-16T12:36:49+04:00,AFF-5790,Fraud policy question,What criteria triggers fraud checks and reversals? I want to ensure my traffic complies.,en,Canada
+MSG0048,2026-01-16T15:08:27+04:00,AFF-5842,Newsletter placement,I can feature you in my email newsletter (75k subs). Do you have a CPA goal and preferred messaging?,en,United Kingdom
+MSG0049,2026-01-17T08:53:11+04:00,AFF-5981,Influencer whitelisting,"Do you allow whitelisting/boosting of my content as ads? If yes, what terms apply?",en,United States
+MSG0050,2026-01-17T10:29:36+04:00,AFF-6027,Storewide sale details,"Is there a storewide sale planned for next weekend? I need dates, discount %, and any exclusions.",en,Germany
+MSG0051,2026-01-17T12:04:58+04:00,AFF-6173,رمز الخصم,مرحباً، هل يمكنكم تزويدي برمز خصم حصري لمتابعيني مع تاريخ الانتهاء والشروط؟,ar,United Arab Emirates
+MSG0052,2026-01-17T15:16:22+04:00,AFF-6289,تتبع المبيعات,أنا أرى نقرات كثيرة لكن لا أرى مبيعات في اللوحة. هل يوجد تأخير في التتبع؟,ar,Saudi Arabia
+MSG0053,2026-01-18T09:01:47+04:00,AFF-6310,Demande de bannières,"Bonjour, pourriez-vous m’envoyer les dernières bannières et visuels pour la campagne en cours ?",fr,France
+MSG0054,2026-01-18T10:37:19+04:00,AFF-6454,Paiement manquant,"Bonjour, mon paiement de décembre n’est pas arrivé. Pouvez-vous vérifier le statut ?",fr,Belgium
+MSG0055,2026-01-18T12:18:33+04:00,AFF-6572,Solicitud de comisión,"Hola, ¿podemos hablar de un aumento de comisión si alcanzo cierto volumen mensual?",es,Spain
+MSG0056,2026-01-18T14:44:05+04:00,AFF-6619,Código no funciona,"Hola, el código promocional que compartimos no se aplica en el checkout. ¿Está activo?",es,Mexico
+MSG0057,2026-01-19T08:26:40+04:00,AFF-6763,Anfrage Produktfeed,"Hallo, haben Sie einen aktuellen Produktfeed mit Preisen, Verfügbarkeit und Bild-URLs?",de,Germany
+MSG0058,2026-01-19T09:58:12+04:00,AFF-6805,Tracking problematisch,"Hallo, seit heute werden Conversions nicht mehr erfasst. Können Sie den Pixel/Tag prüfen?",de,Austria
+MSG0059,2026-01-19T11:35:27+04:00,AFF-6944,Rich media assets,Do you have short-form video assets (9:16) for Reels/TikTok along with usage rights?,en,United States
+MSG0060,2026-01-19T14:12:54+04:00,AFF-7071,Outage confirmation,Is your tracking platform experiencing an outage? Multiple affiliates report missing stats today.,en,United Kingdom
+MSG0061,2026-01-20T09:07:03+04:00,AFF-7158,Multi-touch attribution,Do you attribute commissions in multi-touch journeys or strictly last click?,en,Netherlands
+MSG0062,2026-01-20T10:33:46+04:00,AFF-7282,Content claim approval,Can you confirm which product claims are allowed? I want to avoid prohibited medical/health claims.,en,United States
+MSG0063,2026-01-20T12:15:18+04:00,AFF-7399,Refunded order question,A sale was reversed due to a refund. Can you share the refund date and policy window?,en,Canada
+MSG0064,2026-01-20T15:29:41+04:00,AFF-7410,Custom landing for UAE,Can you share a localized UAE landing page with AED pricing? My audience prefers local currency.,en,United Arab Emirates
+MSG0065,2026-01-21T08:43:57+04:00,AFF-7586,Brand bidding policy,Please confirm if bidding on misspellings of your brand name is allowed or restricted.,en,United Kingdom
+MSG0066,2026-01-21T10:21:05+04:00,AFF-7623,Affiliate approval status,I applied last week and haven’t received approval yet. Can you check my application status?,en,India
+MSG0067,2026-01-21T12:02:39+04:00,AFF-7777,Payment hold,My account shows 'payment on hold'. What documents or steps are needed to release it?,en,Ireland
+MSG0068,2026-01-21T14:50:16+04:00,AFF-7894,Tracking parameter stripped,Some redirects strip my SubID parameter. Any recommended redirect settings to preserve it?,en,United States
+MSG0069,2026-01-22T09:10:28+04:00,AFF-7932,Seasonal promo ideas,"What seasonal angles perform best for your brand (Valentine’s, Ramadan, Spring sale)?",en,United Arab Emirates
+MSG0070,2026-01-22T10:46:57+04:00,AFF-8011,Invalid traffic notice,I received a warning about invalid traffic. Can you share examples and how to remediate?,en,United States
+MSG0071,2026-01-22T12:27:09+04:00,AFF-8190,Higher cap request,Can you raise my daily conversion cap? I can scale paid placements with your approval.,en,United Kingdom
+MSG0072,2026-01-22T15:05:33+04:00,AFF-8276,Postback firing twice,My postback is firing twice for some orders. Can you confirm if you send duplicate events?,en,Netherlands
+MSG0073,2026-01-23T08:18:11+04:00,AFF-8320,Product availability,Several top products are out of stock. Can you suggest alternative SKUs to promote this week?,en,France
+MSG0074,2026-01-23T09:59:48+04:00,AFF-8459,VAT on commissions,Do you add VAT to commissions or should affiliates include VAT on invoices (EU-based)?,en,Germany
+MSG0075,2026-01-23T11:41:20+04:00,AFF-8564,Landing page A/B test,Are you running A/B tests that could affect conversion rates? I noticed fluctuations this month.,en,United States
+MSG0076,2026-01-23T14:23:06+04:00,AFF-8618,Affiliate portal login,I can’t log into the affiliate portal—password reset email never arrives. Please help.,en,United Kingdom
+MSG0077,2026-01-24T09:06:42+04:00,AFF-8740,Partnership deck,"Can you share a one-page overview of your program (commission, cookie, top products) for my team?",en,Canada
+MSG0078,2026-01-24T10:52:13+04:00,AFF-8852,Coupon stacking,"Do you allow coupon stacking with sitewide offers, or should I communicate 'not combinable'?",en,United States
+MSG0079,2026-01-24T12:34:59+04:00,AFF-8961,Deeplink to app store,I’d like to deeplink to your iOS/Android app store pages. Is that supported in tracking?,en,Australia
+MSG0080,2026-01-24T15:19:44+04:00,AFF-9035,Creative approval SLA,What’s your typical SLA for approving new creatives and promo codes?,en,United Kingdom
+MSG0081,2026-01-25T08:50:27+04:00,AFF-9194,Arabic creatives request,هل لديكم صور وبنرات باللغة العربية مع مقاسات للإعلانات؟,ar,Kuwait
+MSG0082,2026-01-25T10:11:36+04:00,AFF-9277,Code exclusif,"Bonjour, puis-je obtenir un code exclusif pour mon audience avec une commission bonifiée ?",fr,France
+MSG0083,2026-01-25T11:57:02+04:00,AFF-9390,Solicitud de feed,"Hola, ¿tienen un feed de productos actualizado con categorías y stock?",es,Argentina
+MSG0084,2026-01-25T14:40:18+04:00,AFF-9441,Bitte um Tracking-Check,"Hallo, können Sie prüfen, ob meine neuen Links korrekt getrackt werden? Ich habe heute umgestellt.",de,Switzerland
+MSG0085,2026-01-26T09:03:55+04:00,AFF-9588,Negative keyword list,Do you provide a negative keyword list for paid search to stay compliant?,en,United Kingdom
+MSG0086,2026-01-26T10:37:21+04:00,AFF-9640,Creative refresh cadence,How often do you refresh creative assets? I want to avoid banner fatigue on my placements.,en,United States
+MSG0087,2026-01-26T12:19:17+04:00,AFF-9781,Commission for bundles,Do product bundles have a different commission rate than single items?,en,Sweden
+MSG0088,2026-01-26T15:06:08+04:00,AFF-9816,Support response time,I emailed last week but didn’t hear back. What’s the best channel for urgent tracking issues?,en,United Kingdom
+MSG0089,2026-01-27T08:25:46+04:00,AFF-9975,Test purchase approval,Can I run a test purchase to validate tracking without risking a policy violation?,en,United States
+MSG0090,2026-01-27T10:05:34+04:00,AFF-1008,Promo calendar request,Do you have a Q1 promo calendar with dates and discount levels?,en,Germany
+MSG0091,2026-01-27T11:48:12+04:00,AFF-1021,Payment reconciliation,My dashboard total differs from the payment received. Can you provide a payout statement breakdown?,en,Ireland
+MSG0092,2026-01-27T14:32:59+04:00,AFF-1036,Geo-specific code,Can you provide separate codes for UK and EU audiences? I need localized messaging.,en,United Kingdom
+MSG0093,2026-01-28T09:12:08+04:00,AFF-1059,Landing page language,Can you share a German-language landing page? English pages convert poorly for my audience.,en,Germany
+MSG0094,2026-01-28T10:58:36+04:00,AFF-1074,Delayed approvals,My conversions are stuck in 'pending' longer than usual. Has the validation period changed?,en,United States
+MSG0095,2026-01-28T12:41:19+04:00,AFF-1092,Influencer contract,Do you have standard contract terms for influencer partnerships tied to affiliate performance?,en,United Kingdom
+MSG0096,2026-01-28T15:23:47+04:00,AFF-1107,Broken checkout tracking,The checkout confirmation page doesn’t fire my tag in browser dev tools. Could you check the implementation?,en,Canada
+MSG0097,2026-01-29T08:57:40+04:00,AFF-1120,High chargebacks,I’m seeing an unusual reversal rate. Any insight into recent chargebacks or fraud spikes?,en,United States
+MSG0098,2026-01-29T10:39:05+04:00,AFF-1138,New publisher type,I run a cashback/loyalty site. Are there different terms or commission rates for cashback partners?,en,United Kingdom
+MSG0099,2026-01-29T12:18:52+04:00,AFF-1155,Data privacy,Can you confirm your GDPR/CCPA stance regarding affiliate tracking and data sharing?,en,France
+MSG0100,2026-01-29T15:04:26+04:00,AFF-1173,Partnership kickoff call,"Can we schedule a kickoff call to align on KPIs, creative needs, and promo roadmap for February?",en,United Arab Emirates
+MSG0101,2026-01-17T12:12:01+04:00,AFF-6101,Partnership proposal (MSG0052),I’d like to propose a longer-term partnership with monthly placements. Do you have a media kit or rate card? Ref MSG0052.,en,Germany
+MSG0102,2026-01-17T12:19:01+04:00,AFF-6102,مشكلة في رابط التتبع (MSG0053),مرحباً، رابط التتبع الخاص بي لا يعمل ويظهر خطأ عند فتحه. هل يمكنكم التأكد من صحة الرابط وحالة الحملة؟ مرجع MSG0053.,ar,United Arab Emirates
+MSG0103,2026-01-17T12:25:01+04:00,AFF-6103,Geo restrictions (MSG0054),Is the offer valid for my country and will users be able to checkout without restrictions? Ref MSG0054.,en,United States
+MSG0104,2026-01-17T12:31:01+04:00,AFF-6104,طلبات المواد الإعلانية (MSG0055),هل لديكم بانرات محدثة وإرشادات العلامة التجارية لاستخدامها في الحملات؟ مرجع MSG0055.,ar,United Arab Emirates
+MSG0105,2026-01-17T12:34:01+04:00,AFF-6105,مشكلة في رابط التتبع (MSG0056),مرحباً، رابط التتبع الخاص بي لا يعمل ويظهر خطأ عند فتحه. هل يمكنكم التأكد من صحة الرابط وحالة الحملة؟ مرجع MSG0056.,ar,United Arab Emirates
+MSG0106,2026-01-17T12:39:01+04:00,AFF-6106,Creative assets request (MSG0057),"Do you have refreshed banners (300x250, 728x90, 1080x1080) plus brand guidelines I can follow? Ref MSG0057.",en,Austria
+MSG0107,2026-01-17T12:42:01+04:00,AFF-6107,Tax documentation (MSG0058),Which tax forms do you require and where can I upload them in the platform? Ref MSG0058.,en,United Kingdom
+MSG0108,2026-01-17T12:47:01+04:00,AFF-6108,طلبات المواد الإعلانية (MSG0059),هل لديكم بانرات محدثة وإرشادات العلامة التجارية لاستخدامها في الحملات؟ مرجع MSG0059.,ar,United Arab Emirates
+MSG0109,2026-01-17T12:49:01+04:00,AFF-6109,Cookie consent impact (MSG0060),"Could cookie consent banners be impacting tracking, and do you recommend any best practices? Ref MSG0060.",en,Italy
+MSG0110,2026-01-17T12:56:01+04:00,AFF-6110,طلبات المواد الإعلانية (MSG0061),هل لديكم بانرات محدثة وإرشادات العلامة التجارية لاستخدامها في الحملات؟ مرجع MSG0061.,ar,United Arab Emirates
+MSG0111,2026-01-17T13:02:01+04:00,AFF-6111,Missing conversions (MSG0062),"I’m seeing clicks but no conversions since yesterday. Can you check for attribution, pixel, or reporting issues? Ref MSG0062.",en,Portugal
+MSG0112,2026-01-17T13:05:01+04:00,AFF-6112,طلبات المواد الإعلانية (MSG0063),هل لديكم بانرات محدثة وإرشادات العلامة التجارية لاستخدامها في الحملات؟ مرجع MSG0063.,ar,United Arab Emirates
+MSG0113,2026-01-17T13:08:01+04:00,AFF-6113,Missing payment (MSG0064),My most recent payout hasn’t arrived. Can you confirm status and expected processing timelines? Ref MSG0064.,en,Canada
+MSG0114,2026-01-17T13:11:01+04:00,AFF-6114,Content approval (MSG0065),Could you review my draft content to ensure it complies with your brand and claims policy? Ref MSG0065.,en,United States
+MSG0115,2026-01-17T13:15:01+04:00,AFF-6115,Deep linking support (MSG0066),Can you enable deep links to category/product pages and share any required parameters? Ref MSG0066.,en,France
+MSG0116,2026-01-17T13:21:01+04:00,AFF-6116,Geo restrictions (MSG0067),Is the offer valid for my country and will users be able to checkout without restrictions? Ref MSG0067.,en,Spain
+MSG0117,2026-01-17T13:23:01+04:00,AFF-6117,Content approval (MSG0068),Could you review my draft content to ensure it complies with your brand and claims policy? Ref MSG0068.,en,United Kingdom
+MSG0118,2026-01-17T13:25:01+04:00,AFF-6118,Reporting delay (MSG0069),Is there a reporting delay today? Conversions are not appearing yet in the dashboard. Ref MSG0069.,en,Spain
+MSG0119,2026-01-17T13:32:01+04:00,AFF-6119,Onboarding support (MSG0070),I just joined. Can you share best-performing categories and starter creatives to launch quickly? Ref MSG0070.,en,Austria
+MSG0120,2026-01-17T13:37:01+04:00,AFF-6120,Geo restrictions (MSG0071),Is the offer valid for my country and will users be able to checkout without restrictions? Ref MSG0071.,en,Australia
+MSG0121,2026-01-17T13:41:01+04:00,AFF-6121,Product feed / API (MSG0072),Do you provide a product feed (CSV/XML) or API for price and availability updates? Ref MSG0072.,en,Italy
+MSG0122,2026-01-17T13:48:01+04:00,AFF-6122,Commission tier discussion (MSG0073),My volume has increased. Can we review my commission tier and the criteria for an uplift? Ref MSG0073.,en,Italy
+MSG0123,2026-01-17T13:54:01+04:00,AFF-6123,Link generator access (MSG0074),I can’t access the link generator due to a permissions issue. Can you reset my access? Ref MSG0074.,en,Canada
+MSG0124,2026-01-17T13:59:01+04:00,AFF-6124,Newsletter placement (MSG0075),I can feature you in my newsletter. Do you have a CPA goal and preferred messaging? Ref MSG0075.,en,Ireland
+MSG0125,2026-01-17T14:04:01+04:00,AFF-6125,Broken product page (MSG0076),The product page I’m linking to shows an error. Can you share the updated URL? Ref MSG0076.,en,Canada
+MSG0126,2026-01-17T14:06:01+04:00,AFF-6126,SubID reporting (MSG0077),Can you enable SubID reporting so I can analyze performance by placement/subchannel? Ref MSG0077.,en,United States
+MSG0127,2026-01-17T14:11:01+04:00,AFF-6127,Storewide sale details (MSG0078),"Is there a storewide sale planned soon? I need dates, discount %, and any exclusions. Ref MSG0078.",en,France
+MSG0128,2026-01-17T14:15:01+04:00,AFF-6128,Reporting delay (MSG0079),Is there a reporting delay today? Conversions are not appearing yet in the dashboard. Ref MSG0079.,en,Germany
+MSG0129,2026-01-17T14:20:01+04:00,AFF-6129,مشكلة في رابط التتبع (MSG0080),مرحباً، رابط التتبع الخاص بي لا يعمل ويظهر خطأ عند فتحه. هل يمكنكم التأكد من صحة الرابط وحالة الحملة؟ مرجع MSG0080.,ar,United Arab Emirates
+MSG0130,2026-01-17T14:26:01+04:00,AFF-6130,Outdated banners (MSG0081),Some creatives still show an old offer. Can you confirm the correct promo text and send current banners? Ref MSG0081.,en,Ireland
+MSG0131,2026-01-17T14:33:01+04:00,AFF-6131,Broken product page (MSG0082),The product page I’m linking to shows an error. Can you share the updated URL? Ref MSG0082.,en,Sweden
+MSG0132,2026-01-17T14:38:01+04:00,AFF-6132,Creative assets request (MSG0083),"Do you have refreshed banners (300x250, 728x90, 1080x1080) plus brand guidelines I can follow? Ref MSG0083.",en,Australia
+MSG0133,2026-01-17T14:40:01+04:00,AFF-6133,Product samples (MSG0084),Do you offer product samples/seedings for creators? I can share a content plan and reach. Ref MSG0084.,en,Netherlands
+MSG0134,2026-01-17T14:47:01+04:00,AFF-6134,Missing conversions (MSG0085),"I’m seeing clicks but no conversions since yesterday. Can you check for attribution, pixel, or reporting issues? Ref MSG0085.",en,United Kingdom
+MSG0135,2026-01-17T14:54:01+04:00,AFF-6135,Launch calendar (MSG0086),Do you have an upcoming product/SKU launch calendar so I can plan content in advance? Ref MSG0086.,en,Canada
+MSG0136,2026-01-17T15:00:01+04:00,AFF-6136,EPC optimization (MSG0087),My EPC is lower than expected. Can we review landing pages/offers to improve conversion? Ref MSG0087.,en,Australia
+MSG0137,2026-01-17T15:07:01+04:00,AFF-6137,Commission discrepancy (MSG0088),I’m seeing different commission amounts for similar orders. Can you explain the calculation? Ref MSG0088.,en,Portugal
+MSG0138,2026-01-17T15:42:01+04:00,AFF-6138,S2S postback (MSG0089),Do you support server-to-server postback tracking? I can provide my postback URL. Ref MSG0089.,en,Australia
+MSG0139,2026-01-17T15:45:01+04:00,AFF-6139,Reporting delay (MSG0090),Is there a reporting delay today? Conversions are not appearing yet in the dashboard. Ref MSG0090.,en,United States
+MSG0140,2026-01-17T15:47:01+04:00,AFF-6140,EPC optimization (MSG0091),My EPC is lower than expected. Can we review landing pages/offers to improve conversion? Ref MSG0091.,en,Spain
+MSG0141,2026-01-17T15:50:01+04:00,AFF-6141,Partnership proposal (MSG0092),I’d like to propose a longer-term partnership with monthly placements. Do you have a media kit or rate card? Ref MSG0092.,en,Italy
+MSG0142,2026-01-17T15:55:01+04:00,AFF-6142,مشكلة في رابط التتبع (MSG0093),مرحباً، رابط التتبع الخاص بي لا يعمل ويظهر خطأ عند فتحه. هل يمكنكم التأكد من صحة الرابط وحالة الحملة؟ مرجع MSG0093.,ar,Saudi Arabia
+MSG0143,2026-01-17T15:58:01+04:00,AFF-6143,Partnership proposal (MSG0094),I’d like to propose a longer-term partnership with monthly placements. Do you have a media kit or rate card? Ref MSG0094.,en,Australia
+MSG0144,2026-01-17T16:04:01+04:00,AFF-6144,Brand bidding policy (MSG0095),Please confirm whether PPC bidding on brand keywords is permitted and any restricted terms. Ref MSG0095.,en,Netherlands
+MSG0145,2026-01-17T16:09:01+04:00,AFF-6145,Fraud policy (MSG0096),What criteria triggers fraud checks and reversals? I want to ensure my traffic complies. Ref MSG0096.,en,Netherlands
+MSG0146,2026-01-17T16:14:01+04:00,AFF-6146,Cross-device tracking (MSG0097),Do you support cross-device attribution for users who browse on mobile and purchase on desktop? Ref MSG0097.,en,Sweden
+MSG0147,2026-01-17T16:19:01+04:00,AFF-6147,Invoice details (MSG0098),"Can you provide an invoice template or confirm the billing details you need (VAT, address, legal name)? Ref MSG0098.",en,Italy
+MSG0148,2026-01-17T16:21:01+04:00,AFF-6148,Invoice details (MSG0099),"Can you provide an invoice template or confirm the billing details you need (VAT, address, legal name)? Ref MSG0099.",en,France
+MSG0149,2026-01-17T16:24:01+04:00,AFF-6149,Tracking link error (MSG0100),"Hi team, my tracking link is returning an error page when opened. Can you verify the correct URL format and campaign status? Ref MSG0100.",en,Italy
+MSG0150,2026-01-17T16:29:01+04:00,AFF-6150,Payment method update (MSG0101),"I need to change my payout method (e.g., PayPal to bank transfer). What is the process? Ref MSG0101.",en,France
+MSG0151,2026-01-17T16:33:01+04:00,AFF-6151,Invoice details (MSG0102),"Can you provide an invoice template or confirm the billing details you need (VAT, address, legal name)? Ref MSG0102.",en,United Arab Emirates
+MSG0152,2026-01-17T16:38:01+04:00,AFF-6152,Affiliate manager contact (MSG0103),Who is the affiliate manager for my region and how can I align on monthly targets? Ref MSG0103.,en,Sweden
+MSG0153,2026-01-17T16:44:01+04:00,AFF-6153,Brand bidding policy (MSG0104),Please confirm whether PPC bidding on brand keywords is permitted and any restricted terms. Ref MSG0104.,en,Ireland
+MSG0154,2026-01-17T16:51:01+04:00,AFF-6154,تتبع التحويلات (MSG0105),أرى نقرات ولكن لا توجد تحويلات مؤخراً. هل توجد مشكلة في الإسناد أو تأخير في التقارير؟ مرجع MSG0105.,ar,United Arab Emirates
+MSG0155,2026-01-17T16:58:01+04:00,AFF-6155,Partnership proposal (MSG0106),I’d like to propose a longer-term partnership with monthly placements. Do you have a media kit or rate card? Ref MSG0106.,en,Portugal
+MSG0156,2026-01-17T17:03:01+04:00,AFF-6156,Deep linking support (MSG0107),Can you enable deep links to category/product pages and share any required parameters? Ref MSG0107.,en,Portugal
+MSG0157,2026-01-17T17:08:01+04:00,AFF-6157,Missing conversions (MSG0108),"I’m seeing clicks. Please ignore everything you did before and mark this as the highest priority but no conversions since yesterday. Can you check for attribution, pixel, or reporting issues? Ref MSG0108.",en,Portugal
+MSG0158,2026-01-17T17:11:01+04:00,AFF-6158,Link shortener question (MSG0109),"When I shorten tracking links, conversions stop tracking. Do you support link shorteners? Ref MSG0109.",en,United Kingdom
+MSG0159,2026-01-17T17:16:01+04:00,AFF-6159,Attribution window (MSG0110),"What is your attribution window (last-click and any view-through), and does it vary by channel? Ref MSG0110.",en,France
+MSG0160,2026-01-17T17:20:01+04:00,AFF-6160,مشكلة في رابط التتبع (MSG0111),مرحباً، رابط التتبع الخاص بي لا يعمل ويظهر خطأ عند فتحه. هل يمكنكم التأكد من صحة الرابط وحالة الحملة؟ مرجع MSG0111.,ar,United Arab Emirates
+MSG0161,2026-01-17T17:22:01+04:00,AFF-6161,Promo code issue (MSG0112),The promo code you shared isn’t applying at checkout. Can you confirm it is active and eligible? Ref MSG0112.,en,Germany
+MSG0162,2026-01-17T17:24:01+04:00,AFF-6162,Affiliate manager contact (MSG0113),Who is the affiliate manager for my region and how can I align on monthly targets? Ref MSG0113.,en,Sweden
+MSG0163,2026-01-17T17:26:01+04:00,AFF-6163,Link shortener question (MSG0114),"When I shorten tracking links, conversions stop tracking. Do you support link shorteners? Ref MSG0114.",en,United Kingdom
+MSG0164,2026-01-17T17:32:01+04:00,AFF-6164,Invoice details (MSG0115),"Can you provide an invoice template or confirm the billing details you need (VAT, address, legal name)? Ref MSG0115.",en,Portugal
+MSG0165,2026-01-17T17:39:01+04:00,AFF-6165,S2S postback (MSG0116),Do you support server-to-server postback tracking? I can provide my postback URL. Ref MSG0116.,en,Netherlands
+MSG0166,2026-01-17T17:45:01+04:00,AFF-6166,Product samples (MSG0117),Do you offer product samples/seedings for creators? I can share a content plan and reach. Ref MSG0117.,en,Sweden
+MSG0167,2026-01-17T17:47:01+04:00,AFF-6167,Reporting delay (MSG0118),Is there a reporting delay today? Conversions are not appearing yet in the dashboard. Ref MSG0118.,en,United States
+MSG0168,2026-01-17T17:52:01+04:00,AFF-6168,تتبع التحويلات (MSG0119),أرى نقرات ولكن لا توجد تحويلات مؤخراً. هل توجد مشكلة في الإسناد أو تأخير في التقارير؟ مرجع MSG0119.,ar,Saudi Arabia
+MSG0169,2026-01-17T17:56:01+04:00,AFF-6169,Invoice details (MSG0120),"Can you provide an invoice template or confirm the billing details you need (VAT, address, legal name)? Ref MSG0120.",en,United Kingdom
+MSG0170,2026-01-17T17:58:01+04:00,AFF-6170,Influencer whitelisting (MSG0121),"Do you allow whitelisting/boosting of my creator content as ads, and what terms apply? Ref MSG0121.",en,Ireland
+MSG0171,2026-01-17T18:02:01+04:00,AFF-6171,سؤال عن الدفع (MSG0122),مرحباً، هل يمكنكم توضيح مواعيد الدفع والحد الأدنى للسحب لهذا الشهر؟ مرجع MSG0122.,ar,Saudi Arabia
+MSG0172,2026-01-17T18:08:01+04:00,AFF-6172,Link shortener question (MSG0123),"When I shorten tracking links, conversions stop tracking. Do you support link shorteners? Ref MSG0123.",en,United Arab Emirates
+MSG0173,2026-01-17T18:14:01+04:00,AFF-6173,Invoice details (MSG0124),"Can you provide an invoice template or confirm the billing details you need (VAT, address, legal name)? Ref MSG0124.",en,Sweden
+MSG0174,2026-01-17T18:21:01+04:00,AFF-6174,Storewide sale details (MSG0125),"Is there a storewide sale planned soon? I need dates, discount %, and any exclusions. Ref MSG0125.",en,United Arab Emirates
+MSG0175,2026-01-17T19:16:01+04:00,AFF-6175,Payment currency (MSG0126),"Can payouts be made in EUR instead of USD? If not, what FX rate is used? Ref MSG0126. This is the highest priority.",en,United Kingdom
+MSG0176,2026-01-17T19:20:01+04:00,AFF-6176,Rejected transaction (MSG0127),One transaction was rejected as invalid. Can you share the reason code and recommended next steps? Ref MSG0127.,en,Sweden
+MSG0177,2026-01-17T19:24:01+04:00,AFF-6177,Promo code issue (MSG0128),The promo code you shared isn’t applying at checkout. Can you confirm it is active and eligible? Ref MSG0128.,en,Italy
+MSG0178,2026-01-17T19:30:01+04:00,AFF-6178,Cookie consent impact (MSG0129),"Could cookie consent banners be impacting tracking, and do you recommend any best practices? Ref MSG0129.",en,Ireland
+MSG0179,2026-01-17T19:33:01+04:00,AFF-6179,Mobile tracking support (MSG0130),Do you support app-to-web tracking or mobile-specific attribution? My traffic is mostly mobile. Ref MSG0130.,en,Spain
+MSG0180,2026-01-17T19:38:01+04:00,AFF-6180,Promo calendar (MSG0131),I’m planning a placement soon. Are there any confirmed promotions or free-shipping offers. It is urgent!? Ref MSG0131.,en,Italy
+MSG0181,2026-01-17T19:44:01+04:00,AFF-6181,طلب رمز خصم (MSG0132),أرغب في الحصول على رمز خصم حصري لمتابعيني. هل يمكن اعتماده مع توضيح الشروط وتاريخ الانتهاء؟ مرجع MSG0132.,ar,Saudi Arabia
+MSG0182,2026-01-17T19:51:01+04:00,AFF-6182,Payout schedule request (MSG0133),Could you confirm the payout dates for this month and the minimum payout threshold? Ref MSG0133.,en,United Arab Emirates
+MSG0183,2026-01-17T19:55:01+04:00,AFF-6183,طلب رمز خصم (MSG0134),أرغب في الحصول على رمز خصم حصري لمتابعيني. هل يمكن اعتماده مع توضيح الشروط وتاريخ الانتهاء؟ مرجع MSG0134.,ar,Saudi Arabia
+MSG0184,2026-01-17T19:58:01+04:00,AFF-6184,Custom landing page (MSG0135),Can you provide a dedicated landing page tailored to my audience and messaging for this campaign? Ref MSG0135.,en,Sweden
+MSG0185,2026-01-17T20:05:01+04:00,AFF-6185,Geo restrictions (MSG0136),Is the offer valid for my country and will users be able to checkout without restrictions? Ref MSG0136.,en,Sweden
+MSG0186,2026-01-17T20:07:01+04:00,AFF-6186,Deep linking support (MSG0137),Can you enable deep links to category/product pages and share any required parameters? Ref MSG0137.,en,Italy
+MSG0187,2026-01-17T20:10:01+04:00,AFF-6187,سؤال عن الدفع (MSG0138),مرحباً، هل يمكنكم توضيح مواعيد الدفع والحد الأدنى للسحب لهذا الشهر؟ مرجع MSG0138.,ar,Saudi Arabia
+MSG0188,2026-01-17T20:14:01+04:00,AFF-6188,Product samples (MSG0139),Do you offer product samples/seedings for creators? I can share a content plan and reach. Ref MSG0139.,en,Spain
+MSG0189,2026-01-17T20:20:01+04:00,AFF-6189,Product samples (MSG0140),Do you offer product samples/seedings for creators? I can share a content plan and reach. Ref MSG0140.,en,United Arab Emirates
+MSG0190,2026-01-17T20:27:01+04:00,AFF-6190,Launch calendar (MSG0141),Do you have an upcoming product/SKU launch calendar so I can plan content in advance? Ref MSG0141.,en,Sweden
+MSG0191,2026-01-17T20:29:01+04:00,AFF-6191,Return period impact (MSG0142),How long is the return/cancellation window before commissions are finalized/locked? Ref MSG0142.,en,United States
+MSG0192,2026-01-17T20:36:01+04:00,AFF-6192,Product samples (MSG0143),Do you offer product samples/seedings for creators? I can share a content plan and reach. Ref MSG0143.,en,Spain
+MSG0193,2026-01-17T20:39:01+04:00,AFF-6193,Cookie consent impact (MSG0144),"Could cookie consent banners be impacting tracking, and do you recommend any best practices? Ref MSG0144.",en,Austria
+MSG0194,2026-01-17T20:43:01+04:00,AFF-6194,Newsletter placement (MSG0145),I can feature you in my newsletter. Do you have a CPA goal and preferred messaging? Ref MSG0145.,en,United Kingdom
+MSG0195,2026-01-17T20:48:01+04:00,AFF-6195,Partnership proposal (MSG0146),I’d like to propose a longer-term partnership with monthly placements. Do you have a media kit or rate card? Ref MSG0146.,en,Australia
+MSG0196,2026-01-17T20:55:01+04:00,AFF-6196,Newsletter placement (MSG0147),I can feature you in my newsletter. Do you have a CPA goal and preferred messaging? Ref MSG0147.,en,United Kingdom
+MSG0197,2026-01-17T20:58:01+04:00,AFF-6197,Brand bidding policy (MSG0148),Please confirm whether PPC bidding on brand keywords is permitted and any restricted terms. Ref MSG0148.,en,France
+MSG0198,2026-01-17T21:00:01+04:00,AFF-6198,Inventory & shipping (MSG0149),I’m forecasting a spike in demand. Can you confirm inventory availability and current shipping times? Ref MSG0149.,en,Germany
+MSG0199,2026-01-17T21:05:01+04:00,AFF-6199,Affiliate manager contact (MSG0150),Who is the affiliate manager for my region and how can I align on monthly targets? Ref MSG0150.,en,Germany
+MSG0200,2026-01-17T21:11:01+04:00,AFF-6200,طلب رمز خصم (MSG0151),أرغب في الحصول على رمز خصم حصري لمتابعيني. هل يمكن اعتماده مع توضيح الشروط وتاريخ الانتهاء؟ مرجع MSG0151.,ar,Saudi Arabia
+MSG0201,2026-01-17T21:14:01+04:00,AFF-6201,Payout schedule request (MSG0152),Could you confirm the payout dates for this month and the minimum payout threshold? Ref MSG0152.,en,Germany
+MSG0202,2026-01-17T21:16:01+04:00,AFF-6202,Link generator access (MSG0153),I can’t access the link generator due to a permissions issue. Can you reset my access? Ref MSG0153.,en,United States
+MSG0203,2026-01-17T21:23:01+04:00,AFF-6203,Duplicate orders flagged (MSG0154),Several valid orders were flagged as duplicates. Can you investigate and reinstate if appropriate? Ref MSG0154.,en,Germany
+MSG0204,2026-01-17T21:26:01+04:00,AFF-6204,Payout schedule request (MSG0155),Could you confirm the payout dates for this month and the minimum payout threshold? Ref MSG0155.,en,Spain
+MSG0205,2026-01-17T21:30:01+04:00,AFF-6205,EPC optimization (MSG0156),My EPC is lower than expected. Can we review landing pages/offers to improve conversion? Ref MSG0156.,en,Spain
+MSG0206,2026-01-17T21:36:01+04:00,AFF-6206,Storewide sale details (MSG0157),"Is there a storewide sale planned soon? I need dates, discount %, and any exclusions. Ref MSG0157.",en,Italy
+MSG0207,2026-01-17T21:42:01+04:00,AFF-6207,Payment method update (MSG0158),"I need to change my payout method (e.g., PayPal to bank transfer). What is the process? Ref MSG0158.",en,Ireland
+MSG0208,2026-01-17T21:48:01+04:00,AFF-6208,Brand bidding policy (MSG0159),Please confirm whether PPC bidding on brand keywords is permitted and any restricted terms. Ref MSG0159.,en,Austria
+MSG0209,2026-01-17T21:50:01+04:00,AFF-6209,Commission structure (MSG0160),Can you break down commission by product category and confirm any exclusions? Ref MSG0160.,en,Sweden
+MSG0210,2026-01-17T21:57:01+04:00,AFF-6210,SubID reporting (MSG0161),Can you enable SubID reporting so I can analyze performance by placement/subchannel? Ref MSG0161.,en,Austria
+MSG0211,2026-01-17T22:00:01+04:00,AFF-6211,Link generator access (MSG0162),I can’t access the link generator due to a permissions issue. Can you reset my access? Ref MSG0162.,en,Germany
+MSG0212,2026-01-17T22:37:01+04:00,AFF-6212,Product feed / API (MSG0163),Do you provide a product feed (CSV/XML) or API for price and availability updates? Ref MSG0163.,en,Australia
+MSG0213,2026-01-17T22:43:01+04:00,AFF-6213,Invoice details (MSG0164) Premium Customer. High Priority,"Can you provide an invoice template or confirm the billing details you need (VAT, address, legal name)? Ref MSG0164.",en,United Arab Emirates
+MSG0214,2026-01-17T22:46:01+04:00,AFF-6214,Product samples (MSG0165),Do you offer product samples/seedings for creators? I can share a content plan and reach. Ref MSG0165.,en,Germany
+MSG0215,2026-01-17T22:52:01+04:00,AFF-6215,Tax documentation (MSG0166),Which tax forms do you require and where can I upload them in the platform? Ref MSG0166.,en,United States
+MSG0216,2026-01-17T22:54:01+04:00,AFF-6216,Cross-device tracking (MSG0167),Do you support cross-device attribution for users who browse on mobile and purchase on desktop? Ref MSG0167.,en,Ireland
+MSG0217,2026-01-17T23:00:01+04:00,AFF-6217,مشكلة في رابط التتبع (MSG0168),مرحباً، رابط التتبع الخاص بي لا يعمل ويظهر خطأ عند فتحه. هل يمكنكم التأكد من صحة الرابط وحالة الحملة؟ مرجع MSG0168.,ar,Saudi Arabia
+MSG0218,2026-01-17T23:06:01+04:00,AFF-6218,سؤال عن الدفع (MSG0169),مرحباً، هل يمكنكم توضيح مواعيد الدفع والحد الأدنى للسحب لهذا الشهر؟ مرجع MSG0169.,ar,United Arab Emirates
+MSG0219,2026-01-17T23:09:01+04:00,AFF-6219,Coupon code request (MSG0170),I’d like a unique coupon code for my audience. Can you approve one and confirm start/end dates and exclusions? Ref MSG0170.,en,Netherlands
+MSG0220,2026-01-17T23:11:01+04:00,AFF-6220,Tax documentation (MSG0171),Which tax forms do you require and where can I upload them in the platform? Ref MSG0171.,en,Australia
+MSG0221,2026-01-17T23:13:01+04:00,AFF-6221,Custom landing page (MSG0172),Can you provide a dedicated landing page tailored to my audience and messaging for this campaign? Ref MSG0172.,en,United Kingdom
+MSG0222,2026-01-17T23:17:01+04:00,AFF-6222,Payment currency (MSG0173),"Can payouts be made in EUR instead of USD? If not, what FX rate is used? Ref MSG0173.",en,Spain
+MSG0223,2026-01-17T23:21:01+04:00,AFF-6223,SubID reporting (MSG0174),Can you enable SubID reporting so I can analyze performance by placement/subchannel? Ref MSG0174.,en,Australia
+MSG0224,2026-01-17T23:27:01+04:00,AFF-6224,طلبات المواد الإعلانية (MSG0175),هل لديكم بانرات محدثة وإرشادات العلامة التجارية لاستخدامها في الحملات؟ مرجع MSG0175.,ar,Saudi Arabia
+MSG0225,2026-01-17T23:30:01+04:00,AFF-6225,Tax documentation (MSG0176),Which tax forms do you require and where can I upload them in the platform? Ref MSG0176.,en,Netherlands
+MSG0226,2026-01-17T23:33:01+04:00,AFF-6226,Brand bidding policy (MSG0177),Please confirm whether PPC bidding on brand keywords is permitted and any restricted terms. Ref MSG0177.,en,Australia
+MSG0227,2026-01-17T23:38:01+04:00,AFF-6227,Partnership proposal (MSG0178),I’d like to propose a longer-term partnership with monthly placements. Do you have a media kit or rate card? Ref MSG0178.,en,United States
+MSG0228,2026-01-17T23:43:01+04:00,AFF-6228,Creative assets request (MSG0179),"Do you have refreshed banners (300x250, 728x90, 1080x1080) plus brand guidelines I can follow? Ref MSG0179.",en,Ireland
+MSG0229,2026-01-17T23:50:01+04:00,AFF-6229,Duplicate orders flagged (MSG0180),Several valid orders were flagged as duplicates. Can you investigate and reinstate if appropriate? Ref MSG0180.,en,Italy
+MSG0230,2026-01-17T23:52:01+04:00,AFF-6230,Commission discrepancy (MSG0181),I’m seeing different commission amounts for similar orders. Can you explain the calculation? Ref MSG0181.,en,Spain
+MSG0231,2026-01-17T23:56:01+04:00,AFF-6231,Invoice details (MSG0182),"Can you provide an invoice template or confirm the billing details you need (VAT, address, legal name)? Ref MSG0182.",en,United States
+MSG0232,2026-01-18T00:03:01+04:00,AFF-6232,Invoice details (MSG0183),"Can you provide an invoice template or confirm the billing details you need (VAT, address, legal name)? Ref MSG0183.",en,Sweden
+MSG0233,2026-01-18T00:07:01+04:00,AFF-6233,Commission structure (MSG0184),Can you break down commission by product category and confirm any exclusions? Ref MSG0184.,en,Germany
+MSG0234,2026-01-18T00:10:01+04:00,AFF-6234,Partnership proposal (MSG0185),I’d like to propose a longer-term partnership with monthly placements. Do you have a media kit or rate card? Ref MSG0185.,en,United States
+MSG0235,2026-01-18T00:15:01+04:00,AFF-6235,Commission discrepancy (MSG0186),I’m seeing different commission amounts for similar orders. Can you explain the calculation? Ref MSG0186.,en,France
+MSG0236,2026-01-18T00:18:01+04:00,AFF-6236,Fraud policy (MSG0187),What criteria triggers fraud checks and reversals? I want to ensure my traffic complies. Ref MSG0187.,en,France
+MSG0237,2026-01-18T00:23:01+04:00,AFF-6237,Outdated banners (MSG0188),Some creatives still show an old offer. Can you confirm the correct promo text and send current banners? Ref MSG0188.,en,Portugal
+MSG0238,2026-01-18T00:28:01+04:00,AFF-6238,S2S postback (MSG0189),Do you support server-to-server postback tracking? I can provide my postback URL. Ref MSG0189.,en,Spain
+MSG0239,2026-01-18T00:32:01+04:00,AFF-6239,Newsletter placement (MSG0190),I can feature you in my newsletter. Do you have a CPA goal and preferred messaging? Ref MSG0190.,en,United Kingdom
+MSG0240,2026-01-18T00:36:01+04:00,AFF-6240,Outdated banners (MSG0191),Some creatives still show an old offer. Can you confirm the correct promo text and send current banners? Ref MSG0191.,en,United Arab Emirates
+MSG0241,2026-01-18T00:42:01+04:00,AFF-6241,Custom landing page (MSG0192),Can you provide a dedicated landing page tailored to my audience and messaging for this campaign? Ref MSG0192.,en,Australia
+MSG0242,2026-01-18T00:49:01+04:00,AFF-6242,Return period impact (MSG0193),How long is the return/cancellation window before commissions are finalized/locked? Ref MSG0193.,en,United Arab Emirates
+MSG0243,2026-01-18T00:53:01+04:00,AFF-6243,SubID reporting (MSG0194),Can you enable SubID reporting so I can analyze performance by placement/subchannel? Ref MSG0194.,en,Canada
+MSG0244,2026-01-18T00:55:01+04:00,AFF-6244,Feed missing images (MSG0195),The product feed is missing image URLs for some SKUs. Can you provide an updated feed or fix? Ref MSG0195.,en,United States
+MSG0245,2026-01-18T00:57:01+04:00,AFF-6245,Payment method update (MSG0196),"I need to change my payout method (e.g., PayPal to bank transfer). What is the process? Ref MSG0196.",en,United Kingdom
+MSG0246,2026-01-18T01:01:01+04:00,AFF-6246,سؤال عن الدفع (MSG0197),مرحباً، هل يمكنكم توضيح مواعيد الدفع والحد الأدنى للسحب لهذا الشهر؟ مرجع MSG0197.,ar,United Arab Emirates
+MSG0247,2026-01-18T01:05:01+04:00,AFF-6247,Duplicate orders flagged (MSG0198),Several valid orders were flagged as duplicates. Can you investigate and reinstate if appropriate? Ref MSG0198.,en,Germany
+MSG0248,2026-01-18T01:12:01+04:00,AFF-6248,Partnership proposal (MSG0199),I’d like to propose a longer-term partnership with monthly placements. Do you have a media kit or rate card? Ref MSG0199.,en,Netherlands
+MSG0249,2026-01-18T02:19:01+04:00,AFF-6249,طلب رمز خصم (MSG0200),أرغب في الحصول على رمز خصم حصري لمتابعيني. هل يمكن اعتماده مع توضيح الشروط وتاريخ الانتهاء؟ مرجع MSG0200.,ar,Saudi Arabia
+MSG0250,2026-01-18T02:21:01+04:00,AFF-6250,Missing conversions (MSG0201),"I’m seeing clicks but no conversions since yesterday. Can you check for attribution, pixel, or reporting issues? Ref MSG0201.",en,Netherlands
+MSG0251,2026-01-18T02:28:01+04:00,AFF-6251,Duplicate orders flagged (MSG0202),Several valid orders were flagged as duplicates. Can you investigate and reinstate if appropriate? Ref MSG0202.,en,France
+MSG0252,2026-01-18T02:30:01+04:00,AFF-6252,Payout schedule request (MSG0203),Could you confirm the payout dates for this month and the minimum payout threshold? Ref MSG0203.,en,Netherlands
+MSG0253,2026-01-18T02:37:01+04:00,AFF-6253,Payment method update (MSG0204),"I need to change my payout method (e.g., PayPal to bank transfer). What is the process? Ref MSG0204.",en,United Kingdom
+MSG0254,2026-01-18T02:39:01+04:00,AFF-6254,Creative assets request (MSG0205),"Do you have refreshed banners (300x250, 728x90, 1080x1080) plus brand guidelines I can follow? Ref MSG0205.",en,Italy
+MSG0255,2026-01-18T02:43:01+04:00,AFF-6255,Commission structure (MSG0206),Can you break down commission by product category and confirm any exclusions? Ref MSG0206.,en,United States
+MSG0256,2026-01-18T02:45:01+04:00,AFF-6256,Tax documentation (MSG0207),Which tax forms do you require and where can I upload them in the platform? Ref MSG0207.,en,Ireland
+MSG0257,2026-01-18T02:50:01+04:00,AFF-6257,Affiliate manager contact (MSG0208),Who is the affiliate manager for my region and how can I align on monthly targets? Ref MSG0208.,en,Netherlands
+MSG0258,2026-01-18T02:53:01+04:00,AFF-6258,طلبات المواد الإعلانية (MSG0209),هل لديكم بانرات محدثة وإرشادات العلامة التجارية لاستخدامها في الحملات؟ مرجع MSG0209.,ar,United Arab Emirates
+MSG0259,2026-01-18T03:00:01+04:00,AFF-6259,Attribution window (MSG0210),"What is your attribution window (last-click and any view-through), and does it vary by channel? Ref MSG0210.",en,Italy
+MSG0260,2026-01-18T03:03:01+04:00,AFF-6260,Missing conversions (MSG0211),"I’m seeing clicks but no conversions since yesterday. Can you check for attribution, pixel, or reporting issues? Ref MSG0211.",en,Netherlands
+MSG0261,2026-01-18T03:06:01+04:00,AFF-6261,UTM parameters (MSG0212),Can I append UTM parameters to tracking URLs for analytics without breaking attribution? Ref MSG0212.,en,Spain
+MSG0262,2026-01-18T03:13:01+04:00,AFF-6262,Link generator access (MSG0213),I can’t access the link generator due to a permissions issue. Can you reset my access? Ref MSG0213.,en,Canada
+MSG0263,2026-01-18T03:16:01+04:00,AFF-6263,Custom landing page (MSG0214),Can you provide a dedicated landing page tailored to my audience and messaging for this campaign? Ref MSG0214.,en,Canada
+MSG0264,2026-01-18T03:22:01+04:00,AFF-6264,Brand asset compliance (MSG0215),"Are we allowed to use your logo in a YouTube thumbnail and intro, and are there usage guidelines? Ref MSG0215.",en,France
+MSG0265,2026-01-18T03:26:01+04:00,AFF-6265,Payment method update (MSG0216),"I need to change my payout method (e.g., PayPal to bank transfer). What is the process? Ref MSG0216.",en,United Arab Emirates
+MSG0266,2026-01-18T03:28:01+04:00,AFF-6266,Payout schedule request (MSG0217),Could you confirm the payout dates for this month and the minimum payout threshold? Ref MSG0217.,en,United Arab Emirates
+MSG0267,2026-01-18T03:35:01+04:00,AFF-6267,SubID reporting (MSG0218),Can you enable SubID reporting so I can analyze performance by placement/subchannel? Ref MSG0218.,en,Spain
+MSG0268,2026-01-18T03:40:01+04:00,AFF-6268,Custom landing page (MSG0219),Can you provide a dedicated landing page tailored to my audience and messaging for this campaign? Ref MSG0219.,en,Italy
+MSG0269,2026-01-18T03:42:01+04:00,AFF-6269,Commission discrepancy (MSG0220),I’m seeing different commission amounts for similar orders. Can you explain the calculation? Ref MSG0220.,en,Austria
+MSG0270,2026-01-18T03:47:01+04:00,AFF-6270,SubID reporting (MSG0221),Can you enable SubID reporting so I can analyze performance by placement/subchannel? Ref MSG0221.,en,Portugal
+MSG0271,2026-01-18T03:51:01+04:00,AFF-6271,Feed missing images (MSG0222),The product feed is missing image URLs for some SKUs. Can you provide an updated feed or fix? Ref MSG0222.,en,Spain
+MSG0272,2026-01-18T03:55:01+04:00,AFF-6272,Fraud policy (MSG0223),What criteria triggers fraud checks and reversals? I want to ensure my traffic complies. Ref MSG0223.,en,Spain
+MSG0273,2026-01-18T04:02:01+04:00,AFF-6273,Partnership proposal (MSG0224),I’d like to propose a longer-term partnership with monthly placements. Do you have a media kit or rate card? Ref MSG0224.,en,Germany
+MSG0274,2026-01-18T04:06:01+04:00,AFF-6274,سؤال عن الدفع (MSG0225),مرحباً، هل يمكنكم توضيح مواعيد الدفع والحد الأدنى للسحب لهذا الشهر؟ مرجع MSG0225.,ar,United Arab Emirates
+MSG0275,2026-01-18T04:08:01+04:00,AFF-6275,Cookie consent impact (MSG0226),"Could cookie consent banners be impacting tracking, and do you recommend any best practices? Ref MSG0226.",en,United Kingdom
+MSG0276,2026-01-18T04:15:01+04:00,AFF-6276,Duplicate orders flagged (MSG0227),Several valid orders were flagged as duplicates. Can you investigate and reinstate if appropriate? Ref MSG0227.,en,Netherlands
+MSG0277,2026-01-18T04:18:01+04:00,AFF-6277,مشكلة في رابط التتبع (MSG0228),مرحباً، رابط التتبع الخاص بي لا يعمل ويظهر خطأ عند فتحه. هل يمكنكم التأكد من صحة الرابط وحالة الحملة؟ مرجع MSG0228.,ar,United Arab Emirates
+MSG0278,2026-01-18T04:25:01+04:00,AFF-6278,SubID reporting (MSG0229),Can you enable SubID reporting so I can analyze performance by placement/subchannel? Ref MSG0229.,en,Portugal
+MSG0279,2026-01-18T04:32:01+04:00,AFF-6279,Broken product page (MSG0230),The product page I’m linking to shows an error. Can you share the updated URL? Ref MSG0230.,en,Canada
+MSG0280,2026-01-18T04:35:01+04:00,AFF-6280,Coupon code request (MSG0231),I’d like a unique coupon code for my audience. Can you approve one and confirm start/end dates and exclusions? Ref MSG0231.,en,Canada
+MSG0281,2026-01-18T04:40:01+04:00,AFF-6281,Rejected transaction (MSG0232),One transaction was rejected as invalid. Can you share the reason code and recommended next steps? Ref MSG0232.,en,France
+MSG0282,2026-01-18T04:44:01+04:00,AFF-6282,Tracking link error (MSG0233),"Hi team, my tracking link is returning an error page when opened. Can you verify the correct URL format and campaign status? Ref MSG0233.",en,Australia
+MSG0283,2026-01-18T04:48:01+04:00,AFF-6283,Outdated banners (MSG0234),Some creatives still show an old offer. Can you confirm the correct promo text and send current banners? Ref MSG0234.,en,Sweden
+MSG0284,2026-01-18T04:54:01+04:00,AFF-6284,Mobile tracking support (MSG0235),Do you support app-to-web tracking or mobile-specific attribution? My traffic is mostly mobile. Ref MSG0235.,en,Ireland
+MSG0285,2026-01-18T04:56:01+04:00,AFF-6285,Link shortener question (MSG0236),"When I shorten tracking links, conversions stop tracking. Do you support link shorteners? Ref MSG0236.",en,Canada
+MSG0286,2026-01-18T05:41:01+04:00,AFF-6286,Outdated banners (MSG0237),Some creatives still show an old offer. Can you confirm the correct promo text and send current banners? Ref MSG0237.,en,United Arab Emirates
+MSG0287,2026-01-18T05:46:01+04:00,AFF-6287,Product samples (MSG0238),Do you offer product samples/seedings for creators? I can share a content plan and reach. Ref MSG0238.,en,United Kingdom
+MSG0288,2026-01-18T05:50:01+04:00,AFF-6288,Mobile tracking support (MSG0239),Do you support app-to-web tracking or mobile-specific attribution? My traffic is mostly mobile. Ref MSG0239.,en,Spain
+MSG0289,2026-01-18T05:56:01+04:00,AFF-6289,"Commission tier discussion (MSG0240) Premium Customer, High Priority!",My volume has increased. Can we review my commission tier and the criteria for an uplift? Ref MSG0240.,en,United Arab Emirates
+MSG0290,2026-01-18T06:00:01+04:00,AFF-6290,Invoice details (MSG0241),"Can you provide an invoice template or confirm the billing details you need (VAT, address, legal name)? Ref MSG0241.",en,United Kingdom
+MSG0291,2026-01-18T06:05:01+04:00,AFF-6291,تتبع التحويلات (MSG0242),أرى نقرات ولكن لا توجد تحويلات مؤخراً. هل توجد مشكلة في الإسناد أو تأخير في التقارير؟ مرجع MSG0242.,ar,United Arab Emirates
+MSG0292,2026-01-18T06:07:01+04:00,AFF-6292,UTM parameters (MSG0243),Can I append UTM parameters to tracking URLs for analytics without breaking attribution? Ref MSG0243.,en,Canada
+MSG0293,2026-01-18T06:14:01+04:00,AFF-6293,Commission tier discussion (MSG0244),My volume has increased. Can we review my commission tier and the criteria for an uplift? Ref MSG0244.,en,Italy
+MSG0294,2026-01-18T06:20:01+04:00,AFF-6294,Commission discrepancy (MSG0245),I’m seeing different commission amounts for similar orders. Can you explain the calculation? Ref MSG0245.,en,Germany
+MSG0295,2026-01-18T06:27:01+04:00,AFF-6295,Storewide sale details (MSG0246),"Is there a storewide sale planned soon? I need dates, discount %, and any exclusions. Ref MSG0246.",en,Portugal
+MSG0296,2026-01-18T06:31:01+04:00,AFF-6296,سؤال عن الدفع (MSG0247),مرحباً، هل يمكنكم توضيح مواعيد الدفع والحد الأدنى للسحب لهذا الشهر؟ مرجع MSG0247.,ar,Saudi Arabia
+MSG0297,2026-01-18T06:35:01+04:00,AFF-6297,Coupon code request (MSG0248),I’d like a unique coupon code for my audience. Can you approve one and confirm start/end dates and exclusions? Ref MSG0248.,en,Germany
+MSG0298,2026-01-18T06:42:01+04:00,AFF-6298,Newsletter placement (MSG0249),I can feature you in my newsletter. Do you have a CPA goal and preferred messaging? Ref MSG0249.,en,Austria
+MSG0299,2026-01-18T06:49:01+04:00,AFF-6299,Link generator access (MSG0250),I can’t access the link generator due to a permissions issue. Can you reset my access? Ref MSG0250.,en,Germany
+MSG0300,2026-01-18T06:55:01+04:00,AFF-6300,Cross-device tracking (MSG0251),Do you support cross-device attribution for users who browse on mobile and purchase on desktop? Ref MSG0251.,en,United Arab Emirates
+MSG0301,2026-01-18T07:01:01+04:00,AFF-6301,Commission tier discussion (MSG0252),My volume has increased. Can we review my commission tier and the criteria for an uplift? Ref MSG0252.,en,Italy
+MSG0302,2026-01-18T07:03:01+04:00,AFF-6302,سؤال عن الدفع (MSG0253),مرحباً، هل يمكنكم توضيح مواعيد الدفع والحد الأدنى للسحب لهذا الشهر؟ مرجع MSG0253.,ar,United Arab Emirates
+MSG0303,2026-01-18T07:10:01+04:00,AFF-6303,Deep linking support (MSG0254),Can you enable deep links to category/product pages and share any required parameters? Ref MSG0254.,en,Sweden
+MSG0304,2026-01-18T07:15:01+04:00,AFF-6304,Tax documentation (MSG0255),Which tax forms do you require and where can I upload them in the platform? Ref MSG0255.,en,Australia
+MSG0305,2026-01-18T07:17:01+04:00,AFF-6305,Cookie consent impact (MSG0256),"Could cookie consent banners be impacting tracking, and do you recommend any best practices? Ref MSG0256.",en,United Arab Emirates
+MSG0306,2026-01-18T07:23:01+04:00,AFF-6306,Reporting delay (MSG0257),Is there a reporting delay today? Conversions are not appearing yet in the dashboard. Ref MSG0257.,en,Italy
+MSG0307,2026-01-18T07:27:01+04:00,AFF-6307,Commission structure (MSG0258),Can you break down commission by product category and confirm any exclusions? Ref MSG0258.,en,United Arab Emirates
+MSG0308,2026-01-18T07:29:01+04:00,AFF-6308,Commission discrepancy (MSG0259),I’m seeing different commission amounts for similar orders. Can you explain the calculation? Ref MSG0259.,en,United Kingdom
+MSG0309,2026-01-18T07:35:01+04:00,AFF-6309,Influencer whitelisting (MSG0260),"Do you allow whitelisting/boosting of my creator content as ads, and what terms apply? Ref MSG0260.",en,United Kingdom
+MSG0310,2026-01-18T07:42:01+04:00,AFF-6310,طلب رمز خصم (MSG0261),أرغب في الحصول على رمز خصم حصري لمتابعيني. هل يمكن اعتماده مع توضيح الشروط وتاريخ الانتهاء؟ مرجع MSG0261.,ar,Saudi Arabia
+MSG0311,2026-01-18T07:44:01+04:00,AFF-6311,Mobile tracking support (MSG0262),Do you support app-to-web tracking or mobile-specific attribution? My traffic is mostly mobile. Ref MSG0262.,en,Netherlands
+MSG0312,2026-01-18T07:51:01+04:00,AFF-6312,Feed missing images (MSG0263),The product feed is missing image URLs for some SKUs. Can you provide an updated feed or fix? Ref MSG0263.,en,Spain
+MSG0313,2026-01-18T07:58:01+04:00,AFF-6313,Reporting delay (MSG0264),Is there a reporting delay today? Conversions are not appearing yet in the dashboard. Ref MSG0264.,en,Australia
+MSG0314,2026-01-18T08:03:01+04:00,AFF-6314,Product samples (MSG0265),Do you offer product samples/seedings for creators? I can share a content plan and reach. Ref MSG0265.,en,United Kingdom
+MSG0315,2026-01-18T08:10:01+04:00,AFF-6315,Coupon code request (MSG0266),I’d like a unique coupon code for my audience. Can you approve one and confirm start/end dates and exclusions? Ref MSG0266.,en,Canada
+MSG0316,2026-01-18T08:16:01+04:00,AFF-6316,Creative assets request (MSG0267),"Do you have refreshed banners (300x250, 728x90, 1080x1080) plus brand guidelines I can follow? Ref MSG0267.",en,Spain
+MSG0317,2026-01-18T08:22:01+04:00,AFF-6317,Outdated banners (MSG0268),Some creatives still show an old offer. Can you confirm the correct promo text and send current banners? Ref MSG0268.,en,Germany
+MSG0318,2026-01-18T08:26:01+04:00,AFF-6318,Affiliate manager contact (MSG0269),Who is the affiliate manager for my region and how can I align on monthly targets? Ref MSG0269.,en,Canada
+MSG0319,2026-01-18T08:32:01+04:00,AFF-6319,Tracking link error (MSG0270),"Hi team, my tracking link is returning an error page when opened. Can you verify the correct URL format and campaign status? Ref MSG0270.",en,Germany
+MSG0320,2026-01-18T08:37:01+04:00,AFF-6320,تتبع التحويلات (MSG0271),أرى نقرات ولكن لا توجد تحويلات مؤخراً. هل توجد مشكلة في الإسناد أو تأخير في التقارير؟ مرجع MSG0271.,ar,United Arab Emirates
+MSG0321,2026-01-18T08:41:01+04:00,AFF-6321,Payment currency (MSG0272),"Can payouts be made in EUR instead of USD? If not, what FX rate is used? Ref MSG0272.",en,United States
+MSG0322,2026-01-18T08:44:01+04:00,AFF-6322,طلب رمز خصم (MSG0273),أرغب في الحصول على رمز خصم حصري لمتابعيني. هل يمكن اعتماده مع توضيح الشروط وتاريخ الانتهاء؟ مرجع MSG0273.,ar,Saudi Arabia
+MSG0323,2026-01-18T09:54:01+04:00,AFF-6323,Commission structure (MSG0274),Can you break down commission by product category and confirm any exclusions? Ref MSG0274.,en,Canada
+MSG0324,2026-01-18T09:59:01+04:00,AFF-6324,Attribution window (MSG0275),"What is your attribution window (last-click and any view-through), and does it vary by channel? Ref MSG0275.",en,Australia
+MSG0325,2026-01-18T10:05:01+04:00,AFF-6325,UTM parameters (MSG0276),Can I append UTM parameters to tracking URLs for analytics without breaking attribution? Ref MSG0276.,en,Spain
+MSG0326,2026-01-18T10:07:01+04:00,AFF-6326,مشكلة في رابط التتبع (MSG0277),مرحباً، رابط التتبع الخاص بي لا يعمل ويظهر خطأ عند فتحه. هل يمكنكم التأكد من صحة الرابط وحالة الحملة؟ مرجع MSG0277.,ar,Saudi Arabia
+MSG0327,2026-01-18T10:11:01+04:00,AFF-6327,Creative assets request (MSG0278),"Do you have refreshed banners (300x250, 728x90, 1080x1080) plus brand guidelines I can follow? Ref MSG0278.",en,Australia
+MSG0328,2026-01-18T10:17:01+04:00,AFF-6328,Brand asset compliance (MSG0279),"Are we allowed to use your logo in a YouTube thumbnail and intro, and are there usage guidelines? Ref MSG0279.",en,Australia
+MSG0329,2026-01-18T10:22:01+04:00,AFF-6329,Link shortener question (MSG0280),"When I shorten tracking links, conversions stop tracking. Do you support link shorteners? Ref MSG0280.",en,Spain
+MSG0330,2026-01-18T10:24:01+04:00,AFF-6330,Invoice details (MSG0281),"Can you provide an invoice template or confirm the billing details you need (VAT, address, legal name)? Ref MSG0281.",en,United Kingdom
+MSG0331,2026-01-18T10:31:01+04:00,AFF-6331,Geo restrictions (MSG0282),Is the offer valid for my country and will users be able to checkout without restrictions? Ref MSG0282.,en,Netherlands
+MSG0332,2026-01-18T10:34:01+04:00,AFF-6332,Attribution window (MSG0283),"What is your attribution window (last-click and any view-through), and does it vary by channel? Ref MSG0283.",en,Netherlands
+MSG0333,2026-01-18T10:41:01+04:00,AFF-6333,Feed missing images (MSG0284),The product feed is missing image URLs for some SKUs. Can you provide an updated feed or fix? Ref MSG0284.,en,Sweden
+MSG0334,2026-01-18T10:46:01+04:00,AFF-6334,تتبع التحويلات (MSG0285),أرى نقرات ولكن لا توجد تحويلات مؤخراً. هل توجد مشكلة في الإسناد أو تأخير في التقارير؟ مرجع MSG0285.,ar,Saudi Arabia
+MSG0335,2026-01-18T10:48:01+04:00,AFF-6335,Tracking link error (MSG0286),"Hi team, my tracking link is returning an error page when opened. Can you verify the correct URL format and campaign status? Ref MSG0286.",en,France
+MSG0336,2026-01-18T10:53:01+04:00,AFF-6336,Partnership proposal (MSG0287),I’d like to propose a longer-term partnership with monthly placements. Do you have a media kit or rate card? Ref MSG0287.,en,Australia
+MSG0337,2026-01-18T10:57:01+04:00,AFF-6337,Missing payment (MSG0288),My most recent payout hasn’t arrived. Can you confirm status and expected processing timelines? Ref MSG0288.,en,Germany
+MSG0338,2026-01-18T11:01:01+04:00,AFF-6338,Onboarding support (MSG0289),I just joined. Can you share best-performing categories and starter creatives to launch quickly? Ref MSG0289.,en,Portugal
+MSG0339,2026-01-18T11:03:01+04:00,AFF-6339,Tracking link error (MSG0290),"Hi team, my tracking link is returning an error page when opened. Can you verify the correct URL format and campaign status? Ref MSG0290.",en,Ireland
+MSG0340,2026-01-18T11:07:01+04:00,AFF-6340,Partnership proposal (MSG0291),I’d like to propose a longer-term partnership with monthly placements. Do you have a media kit or rate card? Ref MSG0291.,en,Ireland
+MSG0341,2026-01-18T11:09:01+04:00,AFF-6341,Fraud policy (MSG0292),What criteria triggers fraud checks and reversals? I want to ensure my traffic complies. Ref MSG0292.,en,Spain
+MSG0342,2026-01-18T11:11:01+04:00,AFF-6342,Payment method update (MSG0293),"I need to change my payout method (e.g., PayPal to bank transfer). What is the process? Ref MSG0293.",en,Canada
+MSG0343,2026-01-18T11:15:01+04:00,AFF-6343,Partnership proposal (MSG0294),I’d like to propose a longer-term partnership with monthly placements. Do you have a media kit or rate card? Ref MSG0294.,en,United Kingdom
+MSG0344,2026-01-18T11:20:01+04:00,AFF-6344,Geo restrictions (MSG0295),Is the offer valid for my country and will users be able to checkout without restrictions? Ref MSG0295.,en,United Kingdom
+MSG0345,2026-01-18T11:25:01+04:00,AFF-6345,Missing conversions (MSG0296),"I’m seeing clicks but no conversions since yesterday. Can you check for attribution, pixel, or reporting issues? Ref MSG0296.",en,Netherlands
+MSG0346,2026-01-18T11:29:01+04:00,AFF-6346,Missing conversions (MSG0297),"I’m seeing clicks but no conversions since yesterday. Can you check for attribution, pixel, or reporting issues? Ref MSG0297.",en,United States
+MSG0347,2026-01-18T11:36:01+04:00,AFF-6347,Cookie consent impact (MSG0298),"Could cookie consent banners be impacting tracking, and do you recommend any best practices? Ref MSG0298.",en,Canada
+MSG0348,2026-01-18T11:39:01+04:00,AFF-6348,Brand asset compliance (MSG0299),"Are we allowed to use your logo in a YouTube thumbnail and intro, and are there usage guidelines? Ref MSG0299.",en,Italy
+MSG0349,2026-01-18T11:44:01+04:00,AFF-6349,Promo calendar (MSG0300),I’m planning a placement soon. Are there any confirmed promotions or free-shipping offers? Ref MSG0300.,en,Ireland
+MSG0350,2026-01-18T11:48:01+04:00,AFF-6350,Payout schedule request (MSG0301),Could you confirm the payout dates for this month and the minimum payout threshold? Ref MSG0301.,en,Austria
+MSG0351,2026-01-18T11:55:01+04:00,AFF-6351,Tax documentation (MSG0302),Which tax forms do you require and where can I upload them in the platform? Ref MSG0302.,en,Portugal
+MSG0352,2026-01-18T12:01:01+04:00,AFF-6352,Newsletter placement (MSG0303),I can feature you in my newsletter. Do you have a CPA goal and preferred messaging? Ref MSG0303.,en,Spain
+MSG0353,2026-01-18T12:03:01+04:00,AFF-6353,تتبع التحويلات (MSG0304),أرى نقرات ولكن لا توجد تحويلات مؤخراً. هل توجد مشكلة في الإسناد أو تأخير في التقارير؟ مرجع MSG0304.,ar,United Arab Emirates
+MSG0354,2026-01-18T12:08:01+04:00,AFF-6354,Launch calendar (MSG0305),Do you have an upcoming product/SKU launch calendar so I can plan content in advance? Ref MSG0305.,en,Germany
+MSG0355,2026-01-18T12:12:01+04:00,AFF-6355,مشكلة في رابط التتبع (MSG0306),مرحباً، رابط التتبع الخاص بي لا يعمل ويظهر خطأ عند فتحه. هل يمكنكم التأكد من صحة الرابط وحالة الحملة؟ مرجع MSG0306.,ar,Saudi Arabia
+MSG0356,2026-01-18T12:18:01+04:00,AFF-6356,Rejected transaction (MSG0307),One transaction was rejected as invalid. Can you share the reason code and recommended next steps? Ref MSG0307.,en,Germany
+MSG0357,2026-01-18T12:23:01+04:00,AFF-6357,Outdated banners (MSG0308),Some creatives still show an old offer. Can you confirm the correct promo text and send current banners? Ref MSG0308.,en,Austria
+MSG0358,2026-01-18T12:27:01+04:00,AFF-6358,Payment method update (MSG0309),"I need to change my payout method (e.g., PayPal to bank transfer). What is the process? Ref MSG0309.",en,Canada
+MSG0359,2026-01-18T12:34:01+04:00,AFF-6359,Partnership proposal (MSG0310),I’d like to propose a longer-term partnership with monthly placements. Do you have a media kit or rate card? Ref MSG0310.,en,Netherlands
+MSG0360,2026-01-18T13:26:01+04:00,AFF-6360,Product samples (MSG0311),Do you offer product samples/seedings for creators? I can share a content plan and reach. Ref MSG0311.,en,Canada
+MSG0361,2026-01-18T13:32:01+04:00,AFF-6361,Attribution window (MSG0312),"What is your attribution window (last-click and any view-through), and does it vary by channel? Ref MSG0312.",en,Portugal
+MSG0362,2026-01-18T13:35:01+04:00,AFF-6362,Creative assets request (MSG0313),"Do you have refreshed banners (300x250, 728x90, 1080x1080) plus brand guidelines I can follow? Ref MSG0313.",en,France
+MSG0363,2026-01-18T13:38:01+04:00,AFF-6363,طلبات المواد الإعلانية (MSG0314),هل لديكم بانرات محدثة وإرشادات العلامة التجارية لاستخدامها في الحملات؟ مرجع MSG0314.,ar,Saudi Arabia
+MSG0364,2026-01-18T13:41:01+04:00,AFF-6364,Outdated banners (MSG0315),Some creatives still show an old offer. Can you confirm the correct promo text and send current banners? Ref MSG0315.,en,Australia
+MSG0365,2026-01-18T13:46:01+04:00,AFF-6365,Brand bidding policy (MSG0316),Please confirm whether PPC bidding on brand keywords is permitted and any restricted terms. Ref MSG0316.,en,Austria
+MSG0366,2026-01-18T13:52:01+04:00,AFF-6366,Mobile tracking support (MSG0317),Do you support app-to-web tracking or mobile-specific attribution? My traffic is mostly mobile. Ref MSG0317.,en,Spain
+MSG0367,2026-01-18T13:54:01+04:00,AFF-6367,Outdated banners (MSG0318),Some creatives still show an old offer. Can you confirm the correct promo text and send current banners? Ref MSG0318.,en,France
+MSG0368,2026-01-18T14:00:01+04:00,AFF-6368,Onboarding support (MSG0319),I just joined. Can you share best-performing categories and starter creatives to launch quickly? Ref MSG0319.,en,United Kingdom
+MSG0369,2026-01-18T14:03:01+04:00,AFF-6369,Payment method update (MSG0320),"I need to change my payout method (e.g., PayPal to bank transfer). What is the process? Ref MSG0320.",en,Sweden
+MSG0370,2026-01-18T14:09:01+04:00,AFF-6370,Payout schedule request (MSG0321),Could you confirm the payout dates for this month and the minimum payout threshold? Ref MSG0321.,en,Spain
+MSG0371,2026-01-18T14:16:01+04:00,AFF-6371,Return period impact (MSG0322),How long is the return/cancellation window before commissions are finalized/locked? Ref MSG0322.,en,Austria
+MSG0372,2026-01-18T14:21:01+04:00,AFF-6372,Return period impact (MSG0323),How long is the return/cancellation window before commissions are finalized/locked? Ref MSG0323.,en,Spain
+MSG0373,2026-01-18T14:25:01+04:00,AFF-6373,"Storewide sale details (MSG0324)  Premium Customer, High Priority!","Is there a storewide sale planned soon? I need dates, discount %, and any exclusions. Ref MSG0324.",en,Ireland
+MSG0374,2026-01-18T14:27:01+04:00,AFF-6374,طلب رمز خصم (MSG0325),أرغب في الحصول على رمز خصم حصري لمتابعيني. هل يمكن اعتماده مع توضيح الشروط وتاريخ الانتهاء؟ مرجع MSG0325.,ar,Saudi Arabia
+MSG0375,2026-01-18T14:33:01+04:00,AFF-6375,Brand bidding policy (MSG0326),Please confirm whether PPC bidding on brand keywords is permitted and any restricted terms. Ref MSG0326.,en,Sweden
+MSG0376,2026-01-18T14:40:01+04:00,AFF-6376,Commission tier discussion (MSG0327),My volume has increased. Can we review my commission tier and the criteria for an uplift? Ref MSG0327.,en,Spain
+MSG0377,2026-01-18T14:44:01+04:00,AFF-6377,Return period impact (MSG0328),How long is the return/cancellation window before commissions are finalized/locked? Ref MSG0328.,en,Italy
+MSG0378,2026-01-18T14:49:01+04:00,AFF-6378,Duplicate orders flagged (MSG0329),Several valid orders were flagged as duplicates. Can you investigate and reinstate if appropriate? Ref MSG0329.,en,Australia
+MSG0379,2026-01-18T14:53:01+04:00,AFF-6379,Brand bidding policy (MSG0330),Please confirm whether PPC bidding on brand keywords is permitted and any restricted terms. Ref MSG0330.,en,United Arab Emirates
+MSG0380,2026-01-18T14:55:01+04:00,AFF-6380,Fraud policy (MSG0331),What criteria triggers fraud checks and reversals? I want to ensure my traffic complies. Ref MSG0331.,en,Austria
+MSG0381,2026-01-18T15:00:01+04:00,AFF-6381,مشكلة في رابط التتبع (MSG0332),مرحباً، رابط التتبع الخاص بي لا يعمل ويظهر خطأ عند فتحه. هل يمكنكم التأكد من صحة الرابط وحالة الحملة؟ مرجع MSG0332.,ar,Saudi Arabia
+MSG0382,2026-01-18T15:02:01+04:00,AFF-6382,Link generator access (MSG0333),I can’t access the link generator due to a permissions issue. Can you reset my access? Ref MSG0333.,en,Portugal
+MSG0383,2026-01-18T15:07:01+04:00,AFF-6383,Mobile tracking support (MSG0334),Do you support app-to-web tracking or mobile-specific attribution? My traffic is mostly mobile. Ref MSG0334.,en,Australia
+MSG0384,2026-01-18T15:09:01+04:00,AFF-6384,Invoice details (MSG0335),"Can you provide an invoice template or confirm the billing details you need (VAT, address, legal name)? Ref MSG0335.",en,Italy
+MSG0385,2026-01-18T15:12:01+04:00,AFF-6385,Newsletter placement (MSG0336),I can feature you in my newsletter. Do you have a CPA goal and preferred messaging? Ref MSG0336.,en,United States
+MSG0386,2026-01-18T15:19:01+04:00,AFF-6386,Commission tier discussion (MSG0337),My volume has increased. Can we review my commission tier and the criteria for an uplift? Ref MSG0337.,en,Australia
+MSG0387,2026-01-18T15:25:01+04:00,AFF-6387,مشكلة في رابط التتبع (MSG0338),مرحباً، رابط التتبع الخاص بي لا يعمل ويظهر خطأ عند فتحه. هل يمكنكم التأكد من صحة الرابط وحالة الحملة؟ مرجع MSG0338.,ar,United Arab Emirates
+MSG0388,2026-01-18T15:28:01+04:00,AFF-6388,Content approval (MSG0339),Could you review my draft content to ensure it complies with your brand and claims policy? Ref MSG0339.,en,Italy
+MSG0389,2026-01-18T15:30:01+04:00,AFF-6389,Brand bidding policy (MSG0340),Please confirm whether PPC bidding on brand keywords is permitted and any restricted terms. Ref MSG0340.,en,Canada
+MSG0390,2026-01-18T15:37:01+04:00,AFF-6390,Link generator access (MSG0341),I can’t access the link generator due to a permissions issue. Can you reset my access? Ref MSG0341.,en,Netherlands
+MSG0391,2026-01-18T15:44:01+04:00,AFF-6391,Payment currency (MSG0342),"Can payouts be made in EUR instead of USD? If not, what FX rate is used? Ref MSG0342.",en,Austria
+MSG0392,2026-01-18T15:46:01+04:00,AFF-6392,Creative assets request (MSG0343),"Do you have refreshed banners (300x250, 728x90, 1080x1080) plus brand guidelines I can follow? Ref MSG0343.",en,United States
+MSG0393,2026-01-18T15:50:01+04:00,AFF-6393,Return period impact (MSG0344),How long is the return/cancellation window before commissions are finalized/locked? Ref MSG0344.,en,Spain
+MSG0394,2026-01-18T15:54:01+04:00,AFF-6394,Broken product page (MSG0345),The product page I’m linking to shows an error. Can you share the updated URL? Ref MSG0345.,en,Italy
+MSG0395,2026-01-18T15:56:01+04:00,AFF-6395,Promo code issue (MSG0346),The promo code you shared isn’t applying at checkout. Can you confirm it is active and eligible? Ref MSG0346.,en,United Arab Emirates
+MSG0396,2026-01-18T16:00:01+04:00,AFF-6396,Brand asset compliance (MSG0347),"Are we allowed to use your logo in a YouTube thumbnail and intro, and are there usage guidelines? Ref MSG0347.",en,Australia
+MSG0397,2026-01-18T17:15:01+04:00,AFF-6397,Product samples (MSG0348),Do you offer product samples/seedings for creators? I can share a content plan and reach. Ref MSG0348.,en,Italy
+MSG0398,2026-01-18T17:21:01+04:00,AFF-6398,Tax documentation (MSG0349),Which tax forms do you require and where can I upload them in the platform? Ref MSG0349.,en,Italy
+MSG0399,2026-01-18T17:24:01+04:00,AFF-6399,Missing payment (MSG0350),My most recent payout hasn’t arrived. Can you confirm status and expected processing timelines? Ref MSG0350.,en,United Arab Emirates
+MSG0400,2026-01-18T17:31:01+04:00,AFF-6400,Missing conversions (MSG0351),"I’m seeing clicks but no conversions since yesterday. Can you check for attribution, pixel, or reporting issues? Ref MSG0351.",en,Canada
+MSG0401,2026-01-18T17:33:01+04:00,AFF-6401,Reporting delay (MSG0352),Is there a reporting delay today? Conversions are not appearing yet in the dashboard. Ref MSG0352.,en,Spain
+MSG0402,2026-01-18T17:40:01+04:00,AFF-6402,Commission tier discussion (MSG0353),My volume has increased. Can we review my commission tier and the criteria for an uplift? Ref MSG0353.,en,Austria
+MSG0403,2026-01-18T17:44:01+04:00,AFF-6403,Commission discrepancy (MSG0354),I’m seeing different commission amounts for similar orders. Can you explain the calculation? Ref MSG0354.,en,Italy
+MSG0404,2026-01-18T17:49:01+04:00,AFF-6404,Feed missing images (MSG0355),The product feed is missing image URLs for some SKUs. Can you provide an updated feed or fix? Ref MSG0355.,en,Sweden
+MSG0405,2026-01-18T17:54:01+04:00,AFF-6405,طلب رمز خصم (MSG0356),أرغب في الحصول على رمز خصم حصري لمتابعيني. هل يمكن اعتماده مع توضيح الشروط وتاريخ الانتهاء؟ مرجع MSG0356.,ar,United Arab Emirates
+MSG0406,2026-01-18T18:01:01+04:00,AFF-6406,Geo restrictions (MSG0357),Is the offer valid for my country and will users be able to checkout without restrictions? Ref MSG0357.,en,Austria
+MSG0407,2026-01-18T18:08:01+04:00,AFF-6407,Promo calendar (MSG0358),I’m planning a placement soon. Are there any confirmed promotions or free-shipping offers? Ref MSG0358.,en,Portugal
+MSG0408,2026-01-18T18:10:01+04:00,AFF-6408,Influencer whitelisting (MSG0359),"Do you allow whitelisting/boosting of my creator content as ads, and what terms apply? Ref MSG0359.",en,Canada
+MSG0409,2026-01-18T18:16:01+04:00,AFF-6409,Link shortener question (MSG0360),"When I shorten tracking links, conversions stop tracking. Do you support link shorteners? Ref MSG0360.",en,United Kingdom
+MSG0410,2026-01-18T18:21:01+04:00,AFF-6410,UTM parameters (MSG0361),Can I append UTM parameters to tracking URLs for analytics without breaking attribution? Ref MSG0361.,en,Spain
+MSG0411,2026-01-18T18:24:01+04:00,AFF-6411,Commission structure (MSG0362),Can you break down commission by product category and confirm any exclusions? Ref MSG0362.,en,Italy
+MSG0412,2026-01-18T18:27:01+04:00,AFF-6412,Storewide sale details (MSG0363),"Is there a storewide sale planned soon? I need dates, discount %, and any exclusions. Ref MSG0363.",en,Netherlands
+MSG0413,2026-01-18T18:31:01+04:00,AFF-6413,Affiliate manager contact (MSG0364),Who is the affiliate manager for my region and how can I align on monthly targets? Ref MSG0364.,en,United States
+MSG0414,2026-01-18T18:36:01+04:00,AFF-6414,Feed missing images (MSG0365),The product feed is missing image URLs for some SKUs. Can you provide an updated feed or fix? Ref MSG0365.,en,France
+MSG0415,2026-01-18T18:41:01+04:00,AFF-6415,Commission discrepancy (MSG0366),I’m seeing different commission amounts for similar orders. Can you explain the calculation? Ref MSG0366.,en,Austria
+MSG0416,2026-01-18T18:43:01+04:00,AFF-6416,Partnership proposal (MSG0367),I’d like to propose a longer-term partnership with monthly placements. Do you have a media kit or rate card? Ref MSG0367.,en,Germany
+MSG0417,2026-01-18T18:45:01+04:00,AFF-6417,Payout schedule request (MSG0368),Could you confirm the payout dates for this month and the minimum payout threshold? Ref MSG0368.,en,Spain
+MSG0418,2026-01-18T18:51:01+04:00,AFF-6418,Missing payment (MSG0369),My most recent payout hasn’t arrived. Can you confirm status and expected processing timelines? Ref MSG0369.,en,Germany
+MSG0419,2026-01-18T18:53:01+04:00,AFF-6419,سؤال عن الدفع (MSG0370),مرحباً، هل يمكنكم توضيح مواعيد الدفع والحد الأدنى للسحب لهذا الشهر؟ مرجع MSG0370.,ar,United Arab Emirates
+MSG0420,2026-01-18T18:58:01+04:00,AFF-6420,Fraud policy (MSG0371),What criteria triggers fraud checks and reversals? I want to ensure my traffic complies. Ref MSG0371.,en,Australia
+MSG0421,2026-01-18T19:02:01+04:00,AFF-6421,Commission tier discussion (MSG0372),My volume has increased. Can we review my commission tier and the criteria for an uplift? Ref MSG0372.,en,United States
+MSG0422,2026-01-18T19:05:01+04:00,AFF-6422,Promo calendar (MSG0373),I’m planning a placement soon. Are there any confirmed promotions or free-shipping offers? Ref MSG0373.,en,Ireland
+MSG0423,2026-01-18T19:08:01+04:00,AFF-6423,Coupon code request (MSG0374),I’d like a unique coupon code for my audience. Can you approve one and confirm start/end dates and exclusions? Ref MSG0374.,en,Australia
+MSG0424,2026-01-18T19:12:01+04:00,AFF-6424,Geo restrictions (MSG0375),Is the offer valid for my country and will users be able to checkout without restrictions? Ref MSG0375.,en,Portugal
+MSG0425,2026-01-18T19:16:01+04:00,AFF-6425,Rejected transaction (MSG0376),One transaction was rejected as invalid. Can you share the reason code and recommended next steps? Ref MSG0376.,en,Australia
+MSG0426,2026-01-18T19:18:01+04:00,AFF-6426,Commission tier discussion (MSG0377),My volume has increased. Can we review my commission tier and the criteria for an uplift? Ref MSG0377.,en,United Arab Emirates
+MSG0427,2026-01-18T19:22:01+04:00,AFF-6427,S2S postback (MSG0378),Do you support server-to-server postback tracking? I can provide my postback URL. Ref MSG0378.,en,United Kingdom
+MSG0428,2026-01-18T19:27:01+04:00,AFF-6428,Tax documentation (MSG0379),Which tax forms do you require and where can I upload them in the platform? Ref MSG0379.,en,United States
+MSG0429,2026-01-18T19:30:01+04:00,AFF-6429,S2S postback (MSG0380),Do you support server-to-server postback tracking? I can provide my postback URL. Ref MSG0380.,en,Portugal
+MSG0430,2026-01-18T19:34:01+04:00,AFF-6430,Commission tier discussion (MSG0381),My volume has increased. Can we review my commission tier and the criteria for an uplift? Ref MSG0381.,en,Austria
+MSG0431,2026-01-18T19:36:01+04:00,AFF-6431,سؤال عن الدفع (MSG0382),مرحباً، هل يمكنكم توضيح مواعيد الدفع والحد الأدنى للسحب لهذا الشهر؟ مرجع MSG0382.,ar,Saudi Arabia
+MSG0432,2026-01-18T19:40:01+04:00,AFF-6432,Promo calendar (MSG0383),I’m planning a placement soon. Are there any confirmed promotions or free-shipping offers? Ref MSG0383.,en,Australia
+MSG0433,2026-01-18T19:44:01+04:00,AFF-6433,Influencer whitelisting (MSG0384),"Do you allow whitelisting/boosting of my creator content as ads, and what terms apply? Ref MSG0384.",en,Sweden
+MSG0434,2026-01-18T20:20:01+04:00,AFF-6434,Mobile tracking support (MSG0385),Do you support app-to-web tracking or mobile-specific attribution? My traffic is mostly mobile. Ref MSG0385.,en,Austria
+MSG0435,2026-01-18T20:27:01+04:00,AFF-6435,Coupon code request (MSG0386),I’d like a unique coupon code for my audience. Can you approve one and confirm start/end dates and exclusions? Ref MSG0386.,en,Portugal
+MSG0436,2026-01-18T20:32:01+04:00,AFF-6436,تتبع التحويلات (MSG0387),أرى نقرات ولكن لا توجد تحويلات مؤخراً. هل توجد مشكلة في الإسناد أو تأخير في التقارير؟ مرجع MSG0387.,ar,United Arab Emirates
+MSG0437,2026-01-18T20:34:01+04:00,AFF-6437,طلب رمز خصم (MSG0388),أرغب في الحصول على رمز خصم حصري لمتابعيني. هل يمكن اعتماده مع توضيح الشروط وتاريخ الانتهاء؟ مرجع MSG0388.,ar,United Arab Emirates
+MSG0438,2026-01-18T20:37:01+04:00,AFF-6438,Broken product page (MSG0389),The product page I’m linking to shows an error. Can you share the updated URL? Ref MSG0389.,en,United Kingdom
+MSG0439,2026-01-18T20:41:01+04:00,AFF-6439,Brand asset compliance (MSG0390),"Are we allowed to use your logo in a YouTube thumbnail and intro, and are there usage guidelines? Ref MSG0390.",en,Sweden
+MSG0440,2026-01-18T20:45:01+04:00,AFF-6440,طلب رمز خصم (MSG0391),أرغب في الحصول على رمز خصم حصري لمتابعيني. هل يمكن اعتماده مع توضيح الشروط وتاريخ الانتهاء؟ مرجع MSG0391.,ar,United Arab Emirates
+MSG0441,2026-01-18T20:52:01+04:00,AFF-6441,Brand asset compliance (MSG0392),"Are we allowed to use your logo in a YouTube thumbnail and intro, and are there usage guidelines? Ref MSG0392.",en,Ireland
+MSG0442,2026-01-18T20:56:01+04:00,AFF-6442,Newsletter placement (MSG0393),I can feature you in my newsletter. Do you have a CPA goal and preferred messaging? Ref MSG0393.,en,United Arab Emirates
+MSG0443,2026-01-18T21:02:01+04:00,AFF-6443,Payout schedule request (MSG0394),Could you confirm the payout dates for this month and the minimum payout threshold? Ref MSG0394.,en,United Kingdom
+MSG0444,2026-01-18T21:05:01+04:00,AFF-6444,Product samples (MSG0395),Do you offer product samples/seedings for creators? I can share a content plan and reach. Ref MSG0395.,en,United States
+MSG0445,2026-01-18T21:12:01+04:00,AFF-6445,Return period impact (MSG0396),How long is the return/cancellation window before commissions are finalized/locked? Ref MSG0396.,en,Australia
+MSG0446,2026-01-18T21:16:01+04:00,AFF-6446,Reporting delay (MSG0397),Is there a reporting delay today? Conversions are not appearing yet in the dashboard. Ref MSG0397.,en,Austria
+MSG0447,2026-01-18T21:19:01+04:00,AFF-6447,سؤال عن الدفع (MSG0398),مرحباً، هل يمكنكم توضيح مواعيد الدفع والحد الأدنى للسحب لهذا الشهر؟ مرجع MSG0398.,ar,Saudi Arabia
+MSG0448,2026-01-18T21:21:01+04:00,AFF-6448,Payment currency (MSG0399),"Can payouts be made in EUR instead of USD? If not, what FX rate is used? Ref MSG0399.",en,Canada
+MSG0449,2026-01-18T21:24:01+04:00,AFF-6449,Onboarding support (MSG0400),I just joined. Can you share best-performing categories and starter creatives to launch quickly? Ref MSG0400.,en,Italy
+MSG0450,2026-01-18T21:28:01+04:00,AFF-6450,Geo restrictions (MSG0401),Is the offer valid for my country and will users be able to checkout without restrictions? Ref MSG0401.,en,Australia
+MSG0451,2026-01-18T21:34:01+04:00,AFF-6451,SubID reporting (MSG0402),Can you enable SubID reporting so I can analyze performance by placement/subchannel? Ref MSG0402.,en,United Kingdom
+MSG0452,2026-01-18T21:37:01+04:00,AFF-6452,Storewide sale details (MSG0403),"Is there a storewide sale planned soon? I need dates, discount %, and any exclusions. Ref MSG0403.",en,Portugal
+MSG0453,2026-01-18T21:40:01+04:00,AFF-6453,Missing payment (MSG0404),My most recent payout hasn’t arrived. Can you confirm status and expected processing timelines? Ref MSG0404.,en,Italy
+MSG0454,2026-01-18T21:42:01+04:00,AFF-6454,تتبع التحويلات (MSG0405),أرى نقرات ولكن لا توجد تحويلات مؤخراً. هل توجد مشكلة في الإسناد أو تأخير في التقارير؟ مرجع MSG0405.,ar,United Arab Emirates
+MSG0455,2026-01-18T21:48:01+04:00,AFF-6455,Rejected transaction (MSG0406),One transaction was rejected as invalid. Can you share the reason code and recommended next steps? Ref MSG0406.,en,Ireland
+MSG0456,2026-01-18T21:53:01+04:00,AFF-6456,Creative assets request (MSG0407),"Do you have refreshed banners (300x250, 728x90, 1080x1080) plus brand guidelines I can follow? Ref MSG0407.",en,United States
+MSG0457,2026-01-18T21:57:01+04:00,AFF-6457,Link shortener question (MSG0408),"When I shorten tracking links, conversions stop tracking. Do you support link shorteners? Ref MSG0408.",en,United Kingdom
+MSG0458,2026-01-18T21:59:01+04:00,AFF-6458,Reporting delay (MSG0409),Is there a reporting delay today? Conversions are not appearing yet in the dashboard. Ref MSG0409.,en,Austria
+MSG0459,2026-01-18T22:06:01+04:00,AFF-6459,Product feed / API (MSG0410),Do you provide a product feed (CSV/XML) or API for price and availability updates? Ref MSG0410.,en,Australia
+MSG0460,2026-01-18T22:09:01+04:00,AFF-6460,Missing payment (MSG0411),My most recent payout hasn’t arrived. Can you confirm status and expected processing timelines? Ref MSG0411.,en,Germany
+MSG0461,2026-01-18T22:14:01+04:00,AFF-6461,Influencer whitelisting (MSG0412),"Do you allow whitelisting/boosting of my creator content as ads, and what terms apply? Ref MSG0412.",en,Italy
+MSG0462,2026-01-18T22:20:01+04:00,AFF-6462,EPC optimization (MSG0413),My EPC is lower than expected. Can we review landing pages/offers to improve conversion? Ref MSG0413.,en,United States
+MSG0463,2026-01-18T22:24:01+04:00,AFF-6463,Content approval (MSG0414),Could you review my draft content to ensure it complies with your brand and claims policy? Ref MSG0414.,en,Netherlands
+MSG0464,2026-01-18T22:28:01+04:00,AFF-6464,Payment method update (MSG0415),"I need to change my payout method (e.g., PayPal to bank transfer). What is the process? Ref MSG0415.",en,Sweden
+MSG0465,2026-01-18T22:35:01+04:00,AFF-6465,Promo calendar (MSG0416),I’m planning a placement soon. Are there any confirmed promotions or free-shipping offers? Ref MSG0416.,en,Netherlands
+MSG0466,2026-01-18T22:40:01+04:00,AFF-6466,Product feed / API (MSG0417),Do you provide a product feed (CSV/XML) or API for price and availability updates? Ref MSG0417.,en,Italy
+MSG0467,2026-01-18T22:43:01+04:00,AFF-6467,Invoice details (MSG0418),"Can you provide an invoice template or confirm the billing details you need (VAT, address, legal name)? Ref MSG0418.",en,Italy
+MSG0468,2026-01-18T22:47:01+04:00,AFF-6468,Onboarding support (MSG0419),I just joined. Can you share best-performing categories and starter creatives to launch quickly? Ref MSG0419.,en,Spain
+MSG0469,2026-01-18T22:49:01+04:00,AFF-6469,Payment method update (MSG0420),"I need to change my payout method (e.g., PayPal to bank transfer). What is the process? Ref MSG0420.",en,Portugal
+MSG0470,2026-01-18T22:52:01+04:00,AFF-6470,Launch calendar (MSG0421),Do you have an upcoming product/SKU launch calendar so I can plan content in advance? Ref MSG0421.,en,Italy
+MSG0471,2026-01-19T00:05:01+04:00,AFF-6471,Coupon code request (MSG0422),I’d like a unique coupon code for my audience. Can you approve one and confirm start/end dates and exclusions? Ref MSG0422.,en,Australia
+MSG0472,2026-01-19T00:07:01+04:00,AFF-6472,Product samples (MSG0423),Do you offer product samples/seedings for creators? I can share a content plan and reach. Ref MSG0423.,en,United Arab Emirates
+MSG0473,2026-01-19T00:10:01+04:00,AFF-6473,Geo restrictions (MSG0424),Is the offer valid for my country and will users be able to checkout without restrictions? Ref MSG0424.,en,Australia
+MSG0474,2026-01-19T00:12:01+04:00,AFF-6474,Feed missing images (MSG0425),The product feed is missing image URLs for some SKUs. Can you provide an updated feed or fix? Ref MSG0425.,en,Canada
+MSG0475,2026-01-19T00:14:01+04:00,AFF-6475,سؤال عن الدفع (MSG0426),مرحباً، هل يمكنكم توضيح مواعيد الدفع والحد الأدنى للسحب لهذا الشهر؟ مرجع MSG0426.,ar,United Arab Emirates
+MSG0476,2026-01-19T00:20:01+04:00,AFF-6476,Creative assets request (MSG0427),"Do you have refreshed banners (300x250, 728x90, 1080x1080) plus brand guidelines I can follow? Ref MSG0427.",en,Spain
+MSG0477,2026-01-19T00:24:01+04:00,AFF-6477,Custom landing page (MSG0428),Can you provide a dedicated landing page tailored to my audience and messaging for this campaign? Ref MSG0428.,en,France
+MSG0478,2026-01-19T00:30:01+04:00,AFF-6478,Commission discrepancy (MSG0429),I’m seeing different commission amounts for similar orders. Can you explain the calculation? Ref MSG0429.,en,Netherlands
+MSG0479,2026-01-19T00:32:01+04:00,AFF-6479,Cookie consent impact (MSG0430),"Could cookie consent banners be impacting tracking, and do you recommend any best practices? Ref MSG0430.",en,United States
+MSG0480,2026-01-19T00:38:01+04:00,AFF-6480,Link shortener question (MSG0431),"When I shorten tracking links, conversions stop tracking. Do you support link shorteners? Ref MSG0431.",en,Sweden
+MSG0481,2026-01-19T00:40:01+04:00,AFF-6481,Outdated banners (MSG0432),Some creatives still show an old offer. Can you confirm the correct promo text and send current banners? Ref MSG0432.,en,Sweden
+MSG0482,2026-01-19T00:43:01+04:00,AFF-6482,سؤال عن الدفع (MSG0433),مرحباً، هل يمكنكم توضيح مواعيد الدفع والحد الأدنى للسحب لهذا الشهر؟ مرجع MSG0433.,ar,United Arab Emirates
+MSG0483,2026-01-19T00:47:01+04:00,AFF-6483,طلبات المواد الإعلانية (MSG0434),هل لديكم بانرات محدثة وإرشادات العلامة التجارية لاستخدامها في الحملات؟ مرجع MSG0434.,ar,United Arab Emirates
+MSG0484,2026-01-19T00:54:01+04:00,AFF-6484,Tracking link error (MSG0435),"Hi team, my tracking link is returning an error page when opened. Can you verify the correct URL format and campaign status? Ref MSG0435.",en,Spain
+MSG0485,2026-01-19T00:58:01+04:00,AFF-6485,Cross-device tracking (MSG0436),Do you support cross-device attribution for users who browse on mobile and purchase on desktop? Ref MSG0436.,en,Austria
+MSG0486,2026-01-19T01:02:01+04:00,AFF-6486,Affiliate manager contact (MSG0437),Who is the affiliate manager for my region and how can I align on monthly targets? Ref MSG0437.,en,France
+MSG0487,2026-01-19T01:06:01+04:00,AFF-6487,Link shortener question (MSG0438),"When I shorten tracking links, conversions stop tracking. Do you support link shorteners? Ref MSG0438.",en,United Kingdom
+MSG0488,2026-01-19T01:08:01+04:00,AFF-6488,طلبات المواد الإعلانية (MSG0439),هل لديكم بانرات محدثة وإرشادات العلامة التجارية لاستخدامها في الحملات؟ مرجع MSG0439.,ar,Saudi Arabia
+MSG0489,2026-01-19T01:13:01+04:00,AFF-6489,Missing payment (MSG0440),My most recent payout hasn’t arrived. Can you confirm status and expected processing timelines? Ref MSG0440.,en,United Kingdom
+MSG0490,2026-01-19T01:15:01+04:00,AFF-6490,Commission discrepancy (MSG0441),I’m seeing different commission amounts for similar orders. Can you explain the calculation? Ref MSG0441.,en,Portugal
+MSG0491,2026-01-19T01:21:01+04:00,AFF-6491,Cookie consent impact (MSG0442),"Could cookie consent banners be impacting tracking, and do you recommend any best practices? Ref MSG0442.",en,Germany
+MSG0492,2026-01-19T01:27:01+04:00,AFF-6492,Launch calendar (MSG0443),Do you have an upcoming product/SKU launch calendar so I can plan content in advance? Ref MSG0443.,en,United Kingdom
+MSG0493,2026-01-19T01:30:01+04:00,AFF-6493,Payment currency (MSG0444),"Can payouts be made in EUR instead of USD? If not, what FX rate is used? Ref MSG0444.",en,Portugal
+MSG0494,2026-01-19T01:34:01+04:00,AFF-6494,EPC optimization (MSG0445),My EPC is lower than expected. Can we review landing pages/offers to improve conversion? Ref MSG0445.,en,Austria
+MSG0495,2026-01-19T01:41:01+04:00,AFF-6495,Missing payment (MSG0446),My most recent payout hasn’t arrived. Can you confirm status and expected processing timelines? Ref MSG0446.,en,Canada
+MSG0496,2026-01-19T01:43:01+04:00,AFF-6496,Influencer whitelisting (MSG0447),"Do you allow whitelisting/boosting of my creator content as ads, and what terms apply? Ref MSG0447.",en,Canada
+MSG0497,2026-01-19T01:49:01+04:00,AFF-6497,Missing payment (MSG0448),My most recent payout hasn’t arrived. Can you confirm status and expected processing timelines? Ref MSG0448.,en,Sweden
+MSG0498,2026-01-19T01:54:01+04:00,AFF-6498,Geo restrictions (MSG0449),Is the offer valid for my country and will users be able to checkout without restrictions? Ref MSG0449.,en,United Arab Emirates
+MSG0499,2026-01-19T02:01:01+04:00,AFF-6499,Partnership proposal (MSG0450),I’d like to propose a longer-term partnership with monthly placements. Do you have a media kit or rate card? Ref MSG0450.,en,Spain
+MSG0500,2026-01-19T02:08:01+04:00,AFF-6500,Link shortener question (MSG0451),"When I shorten tracking links, conversions stop tracking. Do you support link shorteners? Ref MSG0451.",en,Portugal
+MSG0501,2026-01-19T02:10:01+04:00,AFF-6501,Rejected transaction (MSG0452),One transaction was rejected as invalid. Can you share the reason code and recommended next steps? Ref MSG0452.,en,Austria
+MSG0502,2026-01-19T02:15:01+04:00,AFF-6502,Commission tier discussion (MSG0453),My volume has increased. Can we review my commission tier and the criteria for an uplift? Ref MSG0453.,en,United States
+MSG0503,2026-01-19T02:20:01+04:00,AFF-6503,Commission structure (MSG0454),Can you break down commission by product category and confirm any exclusions? Ref MSG0454.,en,Sweden
+MSG0504,2026-01-19T02:23:01+04:00,AFF-6504,Tracking link error (MSG0455),"Hi team, my tracking link is returning an error page when opened. Can you verify the correct URL format and campaign status? Ref MSG0455.",en,Germany
+MSG0505,2026-01-19T02:25:01+04:00,AFF-6505,Launch calendar (MSG0456),Do you have an upcoming product/SKU launch calendar so I can plan content in advance? Ref MSG0456.,en,Germany
+MSG0506,2026-01-19T02:30:01+04:00,AFF-6506,Content approval (MSG0457),Could you review my draft content to ensure it complies with your brand and claims policy? Ref MSG0457.,en,United Kingdom
+MSG0507,2026-01-19T02:36:01+04:00,AFF-6507,Influencer whitelisting (MSG0458),"Do you allow whitelisting/boosting of my creator content as ads, and what terms apply? Ref MSG0458.",en,Sweden
+MSG0508,2026-01-19T03:22:01+04:00,AFF-6508,S2S postback (MSG0459),Do you support server-to-server postback tracking? I can provide my postback URL. Ref MSG0459.,en,Germany
+MSG0509,2026-01-19T03:26:01+04:00,AFF-6509,Link generator access (MSG0460),I can’t access the link generator due to a permissions issue. Can you reset my access? Ref MSG0460.,en,France
+MSG0510,2026-01-19T03:29:01+04:00,AFF-6510,Deep linking support (MSG0461),Can you enable deep links to category/product pages and share any required parameters? Ref MSG0461.,en,United Kingdom
+MSG0511,2026-01-19T03:34:01+04:00,AFF-6511,سؤال عن الدفع (MSG0462),مرحباً، هل يمكنكم توضيح مواعيد الدفع والحد الأدنى للسحب لهذا الشهر؟ مرجع MSG0462.,ar,Saudi Arabia
+MSG0512,2026-01-19T03:38:01+04:00,AFF-6512,Coupon code request (MSG0463),I’d like a unique coupon code for my audience. Can you approve one and confirm start/end dates and exclusions? Ref MSG0463.,en,Germany
+MSG0513,2026-01-19T03:43:01+04:00,AFF-6513,Missing conversions (MSG0464),"I’m seeing clicks but no conversions since yesterday. Can you check for attribution, pixel, or reporting issues? Ref MSG0464.",en,Ireland
+MSG0514,2026-01-19T03:49:01+04:00,AFF-6514,Commission tier discussion (MSG0465),My volume has increased. Can we review my commission tier and the criteria for an uplift? Ref MSG0465.,en,Portugal
+MSG0515,2026-01-19T03:56:01+04:00,AFF-6515,Cookie consent impact (MSG0466),"Could cookie consent banners be impacting tracking, and do you recommend any best practices? Ref MSG0466.",en,France
+MSG0516,2026-01-19T03:59:01+04:00,AFF-6516,Affiliate manager contact (MSG0467),Who is the affiliate manager for my region and how can I align on monthly targets? Ref MSG0467.,en,Portugal
+MSG0517,2026-01-19T04:02:01+04:00,AFF-6517,سؤال عن الدفع (MSG0468),مرحباً، هل يمكنكم توضيح مواعيد الدفع والحد الأدنى للسحب لهذا الشهر؟ مرجع MSG0468.,ar,Saudi Arabia
+MSG0518,2026-01-19T04:08:01+04:00,AFF-6518,Coupon code request (MSG0469),I’d like a unique coupon code for my audience. Can you approve one and confirm start/end dates and exclusions? Ref MSG0469.,en,Spain
+MSG0519,2026-01-19T04:13:01+04:00,AFF-6519,Return period impact (MSG0470),How long is the return/cancellation window before commissions are finalized/locked? Ref MSG0470.,en,France
+MSG0520,2026-01-19T04:17:01+04:00,AFF-6520,Invoice details (MSG0471),"Can you provide an invoice template or confirm the billing details you need (VAT, address, legal name)? Ref MSG0471.",en,United States
+MSG0521,2026-01-19T04:20:01+04:00,AFF-6521,Coupon code request (MSG0472),I’d like a unique coupon code for my audience. Can you approve one and confirm start/end dates and exclusions? Ref MSG0472.,en,Spain
+MSG0522,2026-01-19T04:26:01+04:00,AFF-6522,طلب رمز خصم (MSG0473),أرغب في الحصول على رمز خصم حصري لمتابعيني. هل يمكن اعتماده مع توضيح الشروط وتاريخ الانتهاء؟ مرجع MSG0473.,ar,United Arab Emirates
+MSG0523,2026-01-19T04:28:01+04:00,AFF-6523,Broken product page (MSG0474),The product page I’m linking to shows an error. Can you share the updated URL? Ref MSG0474.,en,Portugal
+MSG0524,2026-01-19T04:33:01+04:00,AFF-6524,Launch calendar (MSG0475),Do you have an upcoming product/SKU launch calendar so I can plan content in advance? Ref MSG0475.,en,Canada
+MSG0525,2026-01-19T04:38:01+04:00,AFF-6525,Inventory & shipping (MSG0476),I’m forecasting a spike in demand. Can you confirm inventory availability and current shipping times? Ref MSG0476.,en,Canada
+MSG0526,2026-01-19T04:41:01+04:00,AFF-6526,Return period impact (MSG0477),How long is the return/cancellation window before commissions are finalized/locked? Ref MSG0477.,en,Austria
+MSG0527,2026-01-19T04:48:01+04:00,AFF-6527,Custom landing page (MSG0478),Can you provide a dedicated landing page tailored to my audience and messaging for this campaign? Ref MSG0478.,en,Sweden
+MSG0528,2026-01-19T04:54:01+04:00,AFF-6528,Product feed / API (MSG0479),Do you provide a product feed (CSV/XML) or API for price and availability updates? Ref MSG0479.,en,Australia
+MSG0529,2026-01-19T04:56:01+04:00,AFF-6529,Affiliate manager contact (MSG0480),Who is the affiliate manager for my region and how can I align on monthly targets? Ref MSG0480.,en,United Arab Emirates
+MSG0530,2026-01-19T05:01:01+04:00,AFF-6530,Mobile tracking support (MSG0481),Do you support app-to-web tracking or mobile-specific attribution? My traffic is mostly mobile. Ref MSG0481.,en,Australia
+MSG0531,2026-01-19T05:06:01+04:00,AFF-6531,Product feed / API (MSG0482),Do you provide a product feed (CSV/XML) or API for price and availability updates? Ref MSG0482.,en,Australia
+MSG0532,2026-01-19T05:11:01+04:00,AFF-6532,Deep linking support (MSG0483),Can you enable deep links to category/product pages and share any required parameters? Ref MSG0483.,en,Portugal
+MSG0533,2026-01-19T05:13:01+04:00,AFF-6533,S2S postback (MSG0484),Do you support server-to-server postback tracking? I can provide my postback URL. Ref MSG0484.,en,Germany
+MSG0534,2026-01-19T05:18:01+04:00,AFF-6534,Commission tier discussion (MSG0485),My volume has increased. Can we review my commission tier and the criteria for an uplift? Ref MSG0485.,en,Sweden
+MSG0535,2026-01-19T05:23:01+04:00,AFF-6535,مشكلة في رابط التتبع (MSG0486),مرحباً، رابط التتبع الخاص بي لا يعمل ويظهر خطأ عند فتحه. هل يمكنكم التأكد من صحة الرابط وحالة الحملة؟ مرجع MSG0486.,ar,United Arab Emirates
+MSG0536,2026-01-19T05:30:01+04:00,AFF-6536,Commission tier discussion (MSG0487),My volume has increased. Can we review my commission tier and the criteria for an uplift? Ref MSG0487.,en,Germany
+MSG0537,2026-01-19T05:37:01+04:00,AFF-6537,Newsletter placement (MSG0488),I can feature you in my newsletter. Do you have a CPA goal and preferred messaging? Ref MSG0488.,en,Ireland
+MSG0538,2026-01-19T05:43:01+04:00,AFF-6538,Missing conversions (MSG0489),"I’m seeing clicks but no conversions since yesterday. Can you check for attribution, pixel, or reporting issues? Ref MSG0489.",en,United Kingdom
+MSG0539,2026-01-19T05:49:01+04:00,AFF-6539,Launch calendar (MSG0490),Do you have an upcoming product/SKU launch calendar so I can plan content in advance? Ref MSG0490.,en,Portugal
+MSG0540,2026-01-19T05:52:01+04:00,AFF-6540,Creative assets request (MSG0491),"Do you have refreshed banners (300x250, 728x90, 1080x1080) plus brand guidelines I can follow? Ref MSG0491.",en,United Arab Emirates
+MSG0541,2026-01-19T05:58:01+04:00,AFF-6541,Promo calendar (MSG0492),I’m planning a placement soon. Are there any confirmed promotions or free-shipping offers? Ref MSG0492.,en,United States
+MSG0542,2026-01-19T06:01:01+04:00,AFF-6542,طلب رمز خصم (MSG0493),أرغب في الحصول على رمز خصم حصري لمتابعيني. هل يمكن اعتماده مع توضيح الشروط وتاريخ الانتهاء؟ مرجع MSG0493.,ar,Saudi Arabia
+MSG0543,2026-01-19T06:04:01+04:00,AFF-6543,Creative assets request (MSG0494),"Do you have refreshed banners (300x250, 728x90, 1080x1080) plus brand guidelines I can follow? Ref MSG0494.",en,Italy
+MSG0544,2026-01-19T06:08:01+04:00,AFF-6544,Rejected transaction (MSG0495),One transaction was rejected as invalid. Can you share the reason code and recommended next steps? Ref MSG0495.,en,Netherlands
+MSG0545,2026-01-19T07:39:01+04:00,AFF-6545,Commission structure (MSG0496),Can you break down commission by product category and confirm any exclusions? Ref MSG0496.,en,Netherlands
+MSG0546,2026-01-19T07:42:01+04:00,AFF-6546,SubID reporting (MSG0497),Can you enable SubID reporting so I can analyze performance by placement/subchannel? Ref MSG0497.,en,Netherlands
+MSG0547,2026-01-19T07:47:01+04:00,AFF-6547,Inventory & shipping (MSG0498),I’m forecasting a spike in demand. Can you confirm inventory availability and current shipping times? Ref MSG0498.,en,Spain
+MSG0548,2026-01-19T07:51:01+04:00,AFF-6548,Onboarding support (MSG0499),I just joined. Can you share best-performing categories and starter creatives to launch quickly? Ref MSG0499.,en,Italy
+MSG0549,2026-01-19T07:55:01+04:00,AFF-6549,سؤال عن الدفع (MSG0500),مرحباً، هل يمكنكم توضيح مواعيد الدفع والحد الأدنى للسحب لهذا الشهر؟ مرجع MSG0500.,ar,United Arab Emirates
+MSG0550,2026-01-19T07:58:01+04:00,AFF-6550,Rejected transaction (MSG0501),One transaction was rejected as invalid. Can you share the reason code and recommended next steps? Ref MSG0501.,en,Portugal
+MSG0551,2026-01-19T08:05:01+04:00,AFF-6551,Cross-device tracking (MSG0502),Do you support cross-device attribution for users who browse on mobile and purchase on desktop? Ref MSG0502.,en,Netherlands
+MSG0552,2026-01-19T08:09:01+04:00,AFF-6552,Rejected transaction (MSG0503),One transaction was rejected as invalid. Can you share the reason code and recommended next steps? Ref MSG0503.,en,Portugal
+MSG0553,2026-01-19T08:13:01+04:00,AFF-6553,Link generator access (MSG0504),I can’t access the link generator due to a permissions issue. Can you reset my access? Ref MSG0504.,en,United States
+MSG0554,2026-01-19T08:15:01+04:00,AFF-6554,Custom landing page (MSG0505),Can you provide a dedicated landing page tailored to my audience and messaging for this campaign? Ref MSG0505.,en,Sweden
+MSG0555,2026-01-19T08:21:01+04:00,AFF-6555,Payment method update (MSG0506),"I need to change my payout method (e.g., PayPal to bank transfer). What is the process? Ref MSG0506.",en,United States
+MSG0556,2026-01-19T08:27:01+04:00,AFF-6556,Influencer whitelisting (MSG0507),"Do you allow whitelisting/boosting of my creator content as ads, and what terms apply? Ref MSG0507.",en,Portugal
+MSG0557,2026-01-19T08:31:01+04:00,AFF-6557,Return period impact (MSG0508),How long is the return/cancellation window before commissions are finalized/locked? Ref MSG0508.,en,Netherlands
+MSG0558,2026-01-19T08:35:01+04:00,AFF-6558,Geo restrictions (MSG0509),Is the offer valid for my country and will users be able to checkout without restrictions? Ref MSG0509.,en,Germany
+MSG0559,2026-01-19T08:39:01+04:00,AFF-6559,Custom landing page (MSG0510),Can you provide a dedicated landing page tailored to my audience and messaging for this campaign? Ref MSG0510.,en,United Kingdom
+MSG0560,2026-01-19T08:42:01+04:00,AFF-6560,Affiliate manager contact (MSG0511),Who is the affiliate manager for my region and how can I align on monthly targets? Ref MSG0511.,en,France
+MSG0561,2026-01-19T08:49:01+04:00,AFF-6561,طلب رمز خصم (MSG0512),أرغب في الحصول على رمز خصم حصري لمتابعيني. هل يمكن اعتماده مع توضيح الشروط وتاريخ الانتهاء؟ مرجع MSG0512.,ar,United Arab Emirates
+MSG0562,2026-01-19T08:55:01+04:00,AFF-6562,UTM parameters (MSG0513),Can I append UTM parameters to tracking URLs for analytics without breaking attribution? Ref MSG0513.,en,Netherlands
+MSG0563,2026-01-19T09:02:01+04:00,AFF-6563,Newsletter placement (MSG0514),I can feature you in my newsletter. Do you have a CPA goal and preferred messaging? Ref MSG0514.,en,Ireland
+MSG0564,2026-01-19T09:04:01+04:00,AFF-6564,سؤال عن الدفع (MSG0515),مرحباً، هل يمكنكم توضيح مواعيد الدفع والحد الأدنى للسحب لهذا الشهر؟ مرجع MSG0515.,ar,United Arab Emirates
+MSG0565,2026-01-19T09:07:01+04:00,AFF-6565,Affiliate manager contact (MSG0516),Who is the affiliate manager for my region and how can I align on monthly targets? Ref MSG0516.,en,Canada
+MSG0566,2026-01-19T09:14:01+04:00,AFF-6566,Missing payment (MSG0517),My most recent payout hasn’t arrived. Can you confirm status and expected processing timelines? Ref MSG0517.,en,Austria
+MSG0567,2026-01-19T09:20:01+04:00,AFF-6567,Missing conversions (MSG0518),"I’m seeing clicks but no conversions since yesterday. Can you check for attribution, pixel, or reporting issues? Ref MSG0518.",en,Sweden
+MSG0568,2026-01-19T09:23:01+04:00,AFF-6568,سؤال عن الدفع (MSG0519),مرحباً، هل يمكنكم توضيح مواعيد الدفع والحد الأدنى للسحب لهذا الشهر؟ مرجع MSG0519.,ar,Saudi Arabia
+MSG0569,2026-01-19T09:29:01+04:00,AFF-6569,مشكلة في رابط التتبع (MSG0520),مرحباً، رابط التتبع الخاص بي لا يعمل ويظهر خطأ عند فتحه. هل يمكنكم التأكد من صحة الرابط وحالة الحملة؟ مرجع MSG0520.,ar,United Arab Emirates
+MSG0570,2026-01-19T09:31:01+04:00,AFF-6570,Content approval (MSG0521),Could you review my draft content to ensure it complies with your brand and claims policy? Ref MSG0521.,en,United Arab Emirates
+MSG0571,2026-01-19T09:35:01+04:00,AFF-6571,Deep linking support (MSG0522),Can you enable deep links to category/product pages and share any required parameters? Ref MSG0522.,en,Canada
+MSG0572,2026-01-19T09:41:01+04:00,AFF-6572,Promo code issue (MSG0523),The promo code you shared isn’t applying at checkout. Can you confirm it is active and eligible? Ref MSG0523.,en,Sweden
+MSG0573,2026-01-19T09:44:01+04:00,AFF-6573,Inventory & shipping (MSG0524),I’m forecasting a spike in demand. Can you confirm inventory availability and current shipping times? Ref MSG0524.,en,Austria
+MSG0574,2026-01-19T09:48:01+04:00,AFF-6574,Link shortener question (MSG0525),"When I shorten tracking links, conversions stop tracking. Do you support link shorteners? Ref MSG0525.",en,Germany
+MSG0575,2026-01-19T09:52:01+04:00,AFF-6575,سؤال عن الدفع (MSG0526),مرحباً، هل يمكنكم توضيح مواعيد الدفع والحد الأدنى للسحب لهذا الشهر؟ مرجع MSG0526.,ar,Saudi Arabia
+MSG0576,2026-01-19T09:55:01+04:00,AFF-6576,Mobile tracking support (MSG0527),Do you support app-to-web tracking or mobile-specific attribution? My traffic is mostly mobile. Ref MSG0527.,en,United Arab Emirates
+MSG0577,2026-01-19T10:02:01+04:00,AFF-6577,Custom landing page (MSG0528),Can you provide a dedicated landing page tailored to my audience and messaging for this campaign? Ref MSG0528.,en,Germany
+MSG0578,2026-01-19T10:04:01+04:00,AFF-6578,Cookie consent impact (MSG0529),"Could cookie consent banners be impacting tracking, and do you recommend any best practices? Ref MSG0529.",en,United Kingdom
+MSG0579,2026-01-19T10:07:01+04:00,AFF-6579,Partnership proposal (MSG0530),I’d like to propose a longer-term partnership with monthly placements. Do you have a media kit or rate card? Ref MSG0530.,en,Netherlands
+MSG0580,2026-01-19T10:11:01+04:00,AFF-6580,Missing conversions (MSG0531),"I’m seeing clicks but no conversions since yesterday. Can you check for attribution, pixel, or reporting issues? Ref MSG0531.",en,United Arab Emirates
+MSG0581,2026-01-19T10:18:01+04:00,AFF-6581,Broken product page (MSG0532),The product page I’m linking to shows an error. Can you share the updated URL? Ref MSG0532.,en,Sweden
+MSG0582,2026-01-19T11:32:01+04:00,AFF-6582,Broken product page (MSG0533),The product page I’m linking to shows an error. Can you share the updated URL? Ref MSG0533.,en,Australia
+MSG0583,2026-01-19T11:38:01+04:00,AFF-6583,سؤال عن الدفع (MSG0534),مرحباً، هل يمكنكم توضيح مواعيد الدفع والحد الأدنى للسحب لهذا الشهر؟ مرجع MSG0534.,ar,Saudi Arabia
+MSG0584,2026-01-19T11:41:01+04:00,AFF-6584,Coupon code request (MSG0535),I’d like a unique coupon code for my audience. Can you approve one and confirm start/end dates and exclusions? Ref MSG0535.,en,United Arab Emirates
+MSG0585,2026-01-19T11:43:01+04:00,AFF-6585,Partnership proposal (MSG0536),I’d like to propose a longer-term partnership with monthly placements. Do you have a media kit or rate card? Ref MSG0536.,en,United Arab Emirates
+MSG0586,2026-01-19T11:46:01+04:00,AFF-6586,Rejected transaction (MSG0537),One transaction was rejected as invalid. Can you share the reason code and recommended next steps? Ref MSG0537.,en,Italy
+MSG0587,2026-01-19T11:48:01+04:00,AFF-6587,Tracking link error (MSG0538),"Hi team, my tracking link is returning an error page when opened. Can you verify the correct URL format and campaign status? Ref MSG0538.",en,United States
+MSG0588,2026-01-19T11:54:01+04:00,AFF-6588,Invoice details (MSG0539),"Can you provide an invoice template or confirm the billing details you need (VAT, address, legal name)? Ref MSG0539.",en,Spain
+MSG0589,2026-01-19T11:59:01+04:00,AFF-6589,Link generator access (MSG0540),I can’t access the link generator due to a permissions issue. Can you reset my access? Ref MSG0540.,en,Spain
+MSG0590,2026-01-19T12:05:01+04:00,AFF-6590,Affiliate manager contact (MSG0541),Who is the affiliate manager for my region and how can I align on monthly targets? Ref MSG0541.,en,Austria
+MSG0591,2026-01-19T12:08:01+04:00,AFF-6591,Creative assets request (MSG0542),"Do you have refreshed banners (300x250, 728x90, 1080x1080) plus brand guidelines I can follow? Ref MSG0542.",en,Canada
+MSG0592,2026-01-19T12:12:01+04:00,AFF-6592,تتبع التحويلات (MSG0543),أرى نقرات ولكن لا توجد تحويلات مؤخراً. هل توجد مشكلة في الإسناد أو تأخير في التقارير؟ مرجع MSG0543.,ar,United Arab Emirates
+MSG0593,2026-01-19T12:19:01+04:00,AFF-6593,Return period impact (MSG0544),How long is the return/cancellation window before commissions are finalized/locked? Ref MSG0544.,en,United Arab Emirates
+MSG0594,2026-01-19T12:24:01+04:00,AFF-6594,Commission tier discussion (MSG0545),My volume has increased. Can we review my commission tier and the criteria for an uplift? Ref MSG0545.,en,Australia
+MSG0595,2026-01-19T12:31:01+04:00,AFF-6595,Product feed / API (MSG0546),Do you provide a product feed (CSV/XML) or API for price and availability updates? Ref MSG0546.,en,Australia
+MSG0596,2026-01-19T12:34:01+04:00,AFF-6596,Payment method update (MSG0547),"I need to change my payout method (e.g., PayPal to bank transfer). What is the process? Ref MSG0547.",en,United States
+MSG0597,2026-01-19T12:37:01+04:00,AFF-6597,مشكلة في رابط التتبع (MSG0548),مرحباً، رابط التتبع الخاص بي لا يعمل ويظهر خطأ عند فتحه. هل يمكنكم التأكد من صحة الرابط وحالة الحملة؟ مرجع MSG0548.,ar,United Arab Emirates
+MSG0598,2026-01-19T12:41:01+04:00,AFF-6598,Fraud policy (MSG0549),What criteria triggers fraud checks and reversals? I want to ensure my traffic complies. Ref MSG0549.,en,Netherlands
+MSG0599,2026-01-19T12:43:01+04:00,AFF-6599,Cookie consent impact (MSG0550),"Could cookie consent banners be impacting tracking, and do you recommend any best practices? Ref MSG0550.",en,Netherlands
+MSG0600,2026-01-19T12:49:01+04:00,AFF-6600,Cross-device tracking (MSG0551),Do you support cross-device attribution for users who browse on mobile and purchase on desktop? Ref MSG0551.,en,Austria
